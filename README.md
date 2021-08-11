@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+## Welcome to COSC 499: Capstone Software Engineering Project: 
+A capstone project requiring team software development for an actual client. Students must produce comprehensive reports and deliver presentations. 
 
-You can use the [editor on GitHub](https://github.com/Gemarodri/Capstone499/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This entire course is a group project that will consist of labs supported by the instructor, independent research, client meetings, and group work. Midterm break and other calendar dates can be found [here](http://okanagan.students.ubc.ca/calendar/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### -------------  Administration ---------------------------
+**Instructor:** Gema Rodríguez-Pérez
 
-### Markdown
+**Duraton:** Winter 2021 term 1-2, 6 Credits
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Laboratory:** Wednesdays 8-9:30, TBA
 
-```markdown
-Syntax highlighted code block
+**Lectures:** Fridays 8-9:30, ASC 130
 
-# Header 1
-## Header 2
-### Header 3
+**Office Hours** By appointment only. Send me an email to
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### ------------- Course outline ---------------------------
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gemarodri/Capstone499/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### ------------- Available Projects --------------------------
+[Link](url)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### ------------- Tentative shedule --------------------------
+
+**TERM 1**
+
+|Week   	|  Date 	|  Topic 	|   Resource	|
+|---	    |---	    |---	    |---	        |
+| 1  	    |   	    |   	    | [Slides](url) |
+| 2 	    |   	    |   	    | [Slides](url) |
+| 3  	    |   	    |   	    | [Slides](url) |
+| 4  	    |   	    |   	    | [Slides](url) |
+| 5  	    |   	    |   	    | [Slides](url) |
+| 6  	    |   	    |   	    | [Slides](url) |
+| 7  	    |   	    |   	    | [Slides](url) |
+| 8  	    |   	    |   	    | [Slides](url) | 	
+| 9  	    |   	    |   	    | [Slides](url) |
+| 10  	  |   	    |   	    | [Slides](url) |
+| 11  	  |   	    |   	    | [Slides](url) |
+| 12  	  |   	    |   	    | [Slides](url) |
+| 13  	  |   	    |   	    | [Slides](url) |
+
+
+
+**TERM 2**
+
+|Week   	|  Date 	|  Topic 	|   Resource	|
+|---	    |---	    |---	    |---	        |
+| 1  	    |   	    |   	    | [Slides](url) |
+| 2 	    |   	    |   	    | [Slides](url) |
+| 3  	    |   	    |   	    | [Slides](url) |
+| 4  	    |   	    |   	    | [Slides](url) |
+| 5  	    |   	    |   	    | [Slides](url) |
+| 6  	    |   	    |   	    | [Slides](url) |
+| 7  	    |   	    |   	    | [Slides](url) |
+| 8  	    |   	    |   	    | [Slides](url) | 	
+| 9  	    |   	    |   	    | [Slides](url) |
+| 10  	  |   	    |   	    | [Slides](url) |
+| 11  	  |   	    |   	    | [Slides](url) |
+| 12  	  |   	    |   	    | [Slides](url) |
+| 13  	  |   	    |   	    | [Slides](url) |
