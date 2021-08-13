@@ -3,6 +3,7 @@ A capstone project requiring team software development for an actual client. Stu
 
 This entire course is a group project that will consist of labs supported by the instructor, independent research, client meetings, and group work. Midterm break and other calendar dates can be found [here](http://okanagan.students.ubc.ca/calendar/)
 
+
 **Prerequisite:** COSC 304, COSC 341, and 60%+ in COSC 310.
 
 ## Administration 
@@ -61,26 +62,196 @@ attained
 
 **TERM 1**
 
-|Week   	|  Date 	|  Topic 	|   Resource	|
-|---	    |---	    |---	    |---	        |
-| 1  	    |   	    |   	    | [Slides](url) |
-| 2 	    |   	    |   	    | [Slides](url) |
-| 3  	    |   	    |   	    | [Slides](url) |
-| 4  	    |   	    |   	    | [Slides](url) |
-| 5  	    |   	    |   	    | [Slides](url) |
-| 6  	    |   	    |   	    | [Slides](url) |
-| 7  	    |   	    |   	    | [Slides](url) |
-| 8  	    |   	    |   	    | [Slides](url) | 	
-| 9  	    |   	    |   	    | [Slides](url) |
-| 10  	  |   	    |   	    | [Slides](url) |
-| 11  	  |   	    |   	    | [Slides](url) |
-| 12  	  |   	    |   	    | [Slides](url) |
-| 13  	  |   	    |   	    | [Slides](url) |
+<table>
+<thead>
+  <tr>
+    <th>Week </th>
+    <th>Date</th>
+    <th>Topic</th>
+    <th>Resource</th>
+    <th>TODO</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2"> 1</td>
+    <td >Sep 8, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+   <td ></td>
+  </tr>
+  <tr>
+    <td >Sep 10, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td rowspan="2">2</td>
+    <td >Sep 15, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+   <td ></td>
+  </tr>
+  <tr>
+    <td >Sep 17, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td rowspan="2">3</td>
+    <td >Sep 22, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+   <td ></td>
+  </tr>
+  <tr>
+    <td >Sep 24, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+  </tr>
+    <tr>
+    <td rowspan="2"> 4</td>
+    <td >Sep 29, 2021</td>
+    <td ></td>
+   <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+   <td ></td>
+  </tr>
+  <tr>
+    <td >Oct 1, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td rowspan="2">5</td>
+    <td >Oct 5, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+   <td ></td>
+  </tr>
+  <tr>
+    <td >Oct 8, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td rowspan="2">6</td>
+    <td >Oct 12, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+   <td ></td>
+  </tr>
+  <tr>
+    <td >Oct 15, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td rowspan="2"> 7</td>
+    <td >Oct 20, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+   <td ></td>
+  </tr>
+  <tr>
+    <td >Oct 22, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td rowspan="2">8</td>
+    <td >Oct 27, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+   <td ></td>
+  </tr>
+  <tr>
+    <td >Oct 29, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td rowspan="2">9</td>
+    <td >Nov 3, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+   <td ></td>
+  </tr>
+  <tr>
+    <td >Nov 5, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td colspan="4" >Mid Term Break</td>
+  </tr>
+  <tr>
+    <td rowspan="2"> 11</td>
+    <td >Nov 17, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+   <td ></td>
+  </tr>
+  <tr>
+    <td >Nov 19, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td rowspan="2">12</td>
+    <td >Nov 24, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+   <td ></td>
+  </tr>
+  <tr>
+    <td >Nov 26, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td rowspan="2">13</td>
+    <td >Dec 1, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+   <td ></td>
+  </tr>
+  <tr>
+    <td >Dec 3, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td rowspan="2">14</td>
+    <td >Dec 8, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+   <td ></td>
+  </tr>
+  <tr>
+    <td >Dec 10, 2021</td>
+    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+  </tr>
+</tbody>
+</table>
 
 
 
 **TERM 2**
-
 |Week   	|  Date 	|  Topic 	|   Resource	|
 |---	    |---	    |---	    |---	        |
 | 1  	    |   	    |   	    | [Slides](url) |
