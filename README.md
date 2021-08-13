@@ -77,107 +77,107 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td rowspan="2"> 1</td>
     <td >Sep 8, 2021</td>
-    <td ></td>
+    <td >Intro to the course</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
    <td ></td>
   </tr>
   <tr>
     <td >Sep 10, 2021</td>
-    <td ></td>
+    <td >Intro to software teams</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-    <td ></td>
+    <td >Survey</td>
   </tr>
   <tr>
     <td rowspan="2">2</td>
     <td >Sep 15, 2021</td>
-    <td ></td>
+    <td >GitHub for Software development</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-   <td ></td>
+   <td >Individual GitHub Exercise</td>
   </tr>
   <tr>
     <td >Sep 17, 2021</td>
-    <td ></td>
+    <td >GitHub for Software development </td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-    <td ></td>
+    <td >Group GitHub Exercise</td>
   </tr>
   <tr>
     <td rowspan="2">3</td>
     <td >Sep 22, 2021</td>
-    <td ></td>
+    <td >Agile Software development</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
    <td ></td>
   </tr>
   <tr>
     <td >Sep 24, 2021</td>
-    <td ></td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td >Agile Software development </td>
+    <td >Project repo, ⊗<a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
     <td ></td>
   </tr>
     <tr>
     <td rowspan="2"> 4</td>
     <td >Sep 29, 2021</td>
-    <td ></td>
+    <td >Requirements</td>
    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
    <td ></td>
   </tr>
   <tr>
     <td >Oct 1, 2021</td>
-    <td ></td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td >Requirements</td>
+    <td >⊗<a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
     <td ></td>
   </tr>
   <tr>
     <td rowspan="2">5</td>
     <td >Oct 5, 2021</td>
-    <td ></td>
+    <td >Test Strategies</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
    <td ></td>
   </tr>
   <tr>
     <td >Oct 8, 2021</td>
-    <td ></td>
+    <td >Test Strategies</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-    <td ></td>
+    <td >⊗</td>
   </tr>
   <tr>
     <td rowspan="2">6</td>
     <td >Oct 12, 2021</td>
-    <td ></td>
+    <td >Data Flow Diagrams</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
    <td ></td>
   </tr>
   <tr>
     <td >Oct 15, 2021</td>
-    <td ></td>
+    <td >Data Flow Diagrams</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-    <td ></td>
+    <td >⊗</td>
   </tr>
   <tr>
     <td rowspan="2"> 7</td>
     <td >Oct 20, 2021</td>
-    <td ></td>
+    <td >Work on Requirements</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
    <td ></td>
   </tr>
   <tr>
     <td >Oct 22, 2021</td>
-    <td ></td>
+    <td >Work on Requirements</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-    <td ></td>
+    <td >Requirements report †,⊗ </td>
   </tr>
   <td>8</td>
     <td colspan="4" >No class (I'm Away)</td>
   <tr>
     <td rowspan="2">9</td>
     <td >Nov 3, 2021</td>
-    <td ></td>
+    <td >Presentations</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
    <td ></td>
   </tr>
   <tr>
     <td >Nov 5, 2021</td>
-    <td ></td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td >Presentations</td>
+    <td >⊗<a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
     <td ></td>
   </tr>
   <tr>
@@ -187,40 +187,40 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td rowspan="2"> 11</td>
     <td >Nov 17, 2021</td>
-    <td ></td>
+    <td >Peer testing (set up)</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
    <td ></td>
   </tr>
   <tr>
     <td >Nov 19, 2021</td>
-    <td ></td>
+    <td >Peer testing (set up)</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-    <td ></td>
+    <td >Sig up for peer testing, ⊗</td>
   </tr>
   <tr>
     <td rowspan="2">12</td>
     <td >Nov 24, 2021</td>
-    <td ></td>
+    <td >Peer testing #1</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
    <td ></td>
   </tr>
   <tr>
     <td >Nov 26, 2021</td>
-    <td ></td>
+    <td >Peer testing #1</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-    <td ></td>
+    <td >⊗</td>
   </tr>
   <tr>
     <td rowspan="2">13</td>
     <td >Dec 1, 2021</td>
-    <td ></td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-   <td ></td>
+    <td >Client feedback</td>
+    <td >Peer testing Report<a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+   <td >Video demo†</td>
   </tr>
   <tr>
     <td >Dec 3, 2021</td>
-    <td ></td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td > Client feedback</td>
+    <td >peer evaluations, ⊗ <a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
     <td ></td>
   </tr>
   <tr>
