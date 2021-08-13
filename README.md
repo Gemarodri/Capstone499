@@ -54,6 +54,9 @@ attained
 
 **Required Readings and Videos:** Independent research depending on project needs
 
+**Other Useful Information for the Students**: Useful information about Grievances anc complaints procedures, Academic integrity, Disability Assistance, Equity, Human Rights, Discrimination and Harassment, Health & Wellness, Sexual Violence Prevention and Response Office, Independent Investigations Office, and The Hub can be found in in [More Info](https://github.com/Gemarodri/Capstone499/blob/main/MoreInformation.md)(Please, read it carefully)
+
+
 ## Tentative shedule 
 
 **TERM 1**
