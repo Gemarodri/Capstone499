@@ -32,7 +32,7 @@ If you require assistance related to an issue of equity, discrimination or haras
 At UBC Okanagan health services to students are provided by Health and Wellness. Nurses, physicians and counsellors provide health care and counselling related to physical health, emotional/mental health and sexual/reproductive health concerns. 
 As well, health promotion, education and research activities are provided to the campus community. If you require assistance with your health, **please contact Health and Wellness** for more information or to book an appointment. 
 
-**Email:** healthwellness.okanagan@ubc.ca [Web]:(www.students.ok.ubc.ca/health-wellness)
+**Email:** healthwellness.okanagan@ubc.ca [Web](www.students.ok.ubc.ca/health-wellness)
 
 
 ## Sexual Violence Prevention and Response Office (SVPRO)
