@@ -5,20 +5,35 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
 **TERM 1**
 
  |Date   	|  Topic 	|  Resource 	|   THINGS TO SUBMIT	|
- |---	    |---	    |---	    |---	        |
+ |---	    |---	     |---	        |---	        |
  | Sep 8, 2021 | Introduction to the Course | | |
- | 2 	    |   	    |   	    | [Slides](url) |
- | 3  	    |   	    |   	    | [Slides](url) |
- | 4  	    |   	    |   	    | [Slides](url) |
- | 5  	    |   	    |   	    | [Slides](url) |
- | 6  	    |   	    |   	    | [Slides](url) |
- | 7  	    |   	    |   	    | [Slides](url) |
- | 8  	    |   	    |   	    | [Slides](url) | 	
- | 9  	    |   	    |   	    | [Slides](url) |
- | 10  	  |   	    |   	    | [Slides](url) |
- | 11  	  |   	    |   	    | [Slides](url) |
- | 12  	  |   	    |   	    | [Slides](url) |
- | 13  	  |   	    |   	    | [Slides](url) |
+ | Sep 10, 2021| Teams responsabilities and Expectations |   |  |
+ | Sep 14 , 2021 	    |   	    |      |  |
+ | Sep 17, 2021  	    |   	    |      |  |
+| Sep 21 , 2021 	     |   	    |      |  |
+| Sep 24 , 2021 	     |   	    |      |  |
+| Sep 29, 2021  	     |   	    |      |  |
+| Oct 1, 2021  	      |   	    |      |  |
+| Oct 1, 2021  	      |   	    |      |  |
+| Oct 6, 2021  	      |   	    |      |  |
+| Oct 8, 2021         |   	    |      |  |
+| Oct 13, 2021 	      |   	    |      |  |
+| Oct 15, 2021   	    |   	    |      |  |
+| Oct 20, 2021   	    |        |      |  |
+| Oct 22, 2021  	     |   	    |      |  |
+| Oct 27, 2021   	    | NO     |  CLASS     |   (I'M AWAY) |
+| Oct 29, 2021   	    | NO     |  CLASS     |   (I'M AWAY) |
+| Nov 3, 2021   	     |   	    |     |  |
+| Nov 5, 2021    	    |   	    |     |  |
+| Nov 10, 2021   	    |  NO    |  CLASS     |      MIDTERM   BREAK |
+| Nov 12, 2021   	    |  NO    |  CLASS     |      MIDTERM   BREAK |
+| Nov 17, 2021  	     |   	    |     |  |
+| Nov 19, 2021   	    |   	    |     |  |
+| Nov 26, 2021   	    |   	    |	    |  |
+| Dec 1, 2021	        |    	   |     |  |
+| Dec 3, 2021	        |  	     |     |  |
+| Dec 8, 2021	        |   	    |     |  |
+| Dec 10, 2021	       |  	     |     |  |
 
  
  
