@@ -20,7 +20,7 @@ This entire course is a group project that will consist of labs supported by the
 
 ##  Available Projects 
 
-The list of available projects this year can be found  [Here](https://github.com/Gemarodri/Capstone499/blob/main/projects.md)
+The list of available projects this year can be found  [Here](projects.md)
 
 
 ## Course outline 
