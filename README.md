@@ -43,7 +43,7 @@ attained
 - Gain a deeper understanding on key design and implementation issues
 - Acquire experience on working with clients and professionals in industry
 
-**Evaluation Criteria:** The evaluation criteria is detailed in this [document](https://github.com/Gemarodri/Capstone499/blob/main/EvaluationCriteria.md).
+**Evaluation Criteria:** The evaluation criteria is detailed in this [document](EvaluationCriteria.md).
 
 **Expectations:**
 - Attend all classes and prepare before attending class.
@@ -55,7 +55,7 @@ attained
 
 **Required Readings and Videos:** Independent research depending on project needs
 
-**Other Useful Information for the Students**: Useful information about Grievances anc complaints procedures, Academic integrity, Disability Assistance, Equity, Human Rights, Discrimination and Harassment, Health & Wellness, Sexual Violence Prevention and Response Office, Independent Investigations Office, and The Hub can be found in in [More Info](https://github.com/Gemarodri/Capstone499/blob/main/MoreInformation.md)(Please, read it carefully)
+**Other Useful Information for the Students**: Useful information about Grievances anc complaints procedures, Academic integrity, Disability Assistance, Equity, Human Rights, Discrimination and Harassment, Health & Wellness, Sexual Violence Prevention and Response Office, Independent Investigations Office, and The Hub can be found in in [More Info](MoreInformation.md)(Please, read it carefully)
 
 
 ## Tentative shedule 
