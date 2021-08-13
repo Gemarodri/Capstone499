@@ -32,8 +32,6 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
 | Nov 26  	     |   	    |	    |  |
 | Dec 1         |    	   |     |  |
 | Dec 3	        |  	     |     |  |
-| Dec 8	        |   	    |     |  |
-| Dec 10	       |  	     |     |  |
 
  
  
