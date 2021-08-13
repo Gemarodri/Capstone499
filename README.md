@@ -58,7 +58,7 @@ attained
 **Other Useful Information for the Students**: Useful information about Grievances anc complaints procedures, Academic integrity, Disability Assistance, Equity, Human Rights, Discrimination and Harassment, Health & Wellness, Sexual Violence Prevention and Response Office, Independent Investigations Office, and The Hub can be found in in [More Info](MoreInformation.md)(Please, read it carefully)
 
 
-## Tentative shedule 
+## Tentative shedule (TERM 1)
 
 Note: All items under THINGS TO SUBMIT are due at the beginning of class on the date it is listed. The sign ⊗ denotes the weekly git stat report in PDF for each team. The sign † denotes deliverables that your client will rank.
 
@@ -96,41 +96,5 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
 
 
 
-
-**TERM 2**
-|  Date 	      |  Topic 	|   Resource	| TO DO **
-|---	          |---	    |---	        |---	        |
-| Jan 12, 2022  |         |             |  | 
-| Jan 14, 2022  |         |             |  | 
-| Jan 19, 2022  |         |             |  | 
-| Jan 21, 2022  |         |             |  | 
-| Jan 26, 2022  |         |             |  | 
-| Jan 28, 2022  |         |             |   |
-| Feb 2, 2022  |         |             |   |
-| Feb 4, 2022  |         |             |   |
-| Feb 9, 2022  |         |             |   |
-| Feb 11, 2022  |         |             |   |
-| Feb 16, 2022  |         |             |   |
-| Feb 18, 2022  |         |             |   |
-| Feb 23, 2022  |   NO     |  CLASS  |      MIDTERM   BREAK|
-| Feb 25, 2022  |   NO     |  CLASS  |      MIDTERM   BREAK|
-| Mar 2, 2022  |         |             |   |
-| Mar 4, 2022  |         |             |   |
-| Mar 9, 2022  |         |             |   |
-| Mar 11, 2022  |         |             |   |
-| Mar 16, 2022  |         |             |   |
-| Mar 18, 2022  |         |             |   |
-| Mar 23, 2022  |         |             |   |
-| Mar 25, 2022  |         |             |   |
-| Apr 1, 2022  |         |             |   |
-| Apr 6, 2022  |         |             |   |
-| Apr 8, 2022  |         |             |   |
-| Apr 13, 2022  |         |             |   |
-| Apr 15, 2022  |    NO     |  CLASS     |   (GOOD FRIDAY)|
-| Apr 20, 2022  |        |             |   |
-| Apr 22, 2022  |         |             |   |
-
-
-
-
+You can see the tentative scheduel of TERM 2 in [here](tentativeschedule.md)
 
