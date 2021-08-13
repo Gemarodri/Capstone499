@@ -221,21 +221,6 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Dec 3, 2021</td>
     <td > Client feedback</td>
     <td >peer evaluations, ⊗ <a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-    <td ></td>
-  </tr>
-  <tr>
-    <td rowspan="2">14</td>
-    <td >Dec 8, 2021</td>
-    <td ></td>
-     <td ></td>
-   <td ></td>
-  </tr>
-  <tr>
-    <td >Dec 10, 2021</td>
-    <td ></td>
-    <td ></td>
-    <td ></td>
-  </tr>
 </tbody>
 </table>
 
