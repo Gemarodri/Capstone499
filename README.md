@@ -1,11 +1,11 @@
-## Welcome to COSC 499: Capstone Software Engineering Project: 
+# Welcome to COSC 499: Capstone Software Engineering Project: 
 A capstone project requiring team software development for an actual client. Students must produce comprehensive reports and deliver presentations. 
 
 This entire course is a group project that will consist of labs supported by the instructor, independent research, client meetings, and group work. Midterm break and other calendar dates can be found [here](http://okanagan.students.ubc.ca/calendar/)
 
 **Prerequisite:** COSC 304, COSC 341, and 60%+ in COSC 310.
 
-### -------------  Administration ---------------------------
+## Administration 
 **Instructor:** Gema Rodríguez-Pérez
 
 **Duraton:** Winter 2021 term 1-2, 6 Credits
@@ -17,12 +17,12 @@ This entire course is a group project that will consist of labs supported by the
 **Office Hours** By appointment only. Send me an email.
 
 
-### ------------ Available Projects --------------------------
+##  Available Projects 
 
 The list of available projects this year can be found  [Here](https://github.com/Gemarodri/Capstone499/blob/main/projects.md)
 
 
-### ------------ Course outline ---------------------------
+## Course outline 
 **Course Participation:** The course will be held on campus. Due to covid restictions some exceptions would be available for some students to participate online. In order to engage fully with this course, students are required to have a laptop or desktop computer and a stable Internet connection. Students are encouraged to check out this [link](https://keeplearning.ubc.ca/setting-up/)  
 
 For this course, the groups will have weekly meetings with their clients. This meetings can be online or offline, depending your client. For online meetings you will need a microphone, a web camera (recommended), and most importantly, a quiet space. You are also encouraged to turn your camera on for these meetings.
@@ -42,9 +42,19 @@ attained
 - Gain a deeper understanding on key design and implementation issues
 - Acquire experience on working with clients and professionals in industry
 
-**Evaluation Criteria:** The evaluation criteria is detailed in this [document]() .
+**Evaluation Criteria:** The evaluation criteria is detailed in this [document](https://github.com/Gemarodri/Capstone499/blob/main/EvaluationCriteria.md).
 
-### ------------- Tentative shedule --------------------------
+**Expectations:**
+- Attend all classes and prepare before attending class.
+- Be professional in interacting with your instructor, teammates, and client(s).
+- Be prepared before attending meetings with your team and with your clients.
+- Commit to the team’s goals and do your fair share of the work
+- I want all students to pass the course, receive a good grade, produce a great project for the client, and feel the course was beneficial.
+- For this course, it is expected that you will spend at least 8 hours per week on out-of-class preparation.
+
+**Required Readings and Videos:** Independent research depending on project needs
+
+## Tentative shedule 
 
 **TERM 1**
 
@@ -83,3 +93,5 @@ attained
 | 11  	  |   	    |   	    | [Slides](url) |
 | 12  	  |   	    |   	    | [Slides](url) |
 | 13  	  |   	    |   	    | [Slides](url) |
+
+
