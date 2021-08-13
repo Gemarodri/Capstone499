@@ -4,9 +4,9 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
 
 **TERM 1**
 
- |Date   	|  THINGS TO SUBMIT 	|  Topic 	|   Resource	|
+ |Date   	|  Topic 	|  Resource 	|   THINGS TO SUBMIT	|
  |---	    |---	    |---	    |---	        |
- | 1  	  |   	    |   	    | [Slides](url) |
+ | Sep 8, 2021 | Introduction to the Course | | |
  | 2 	    |   	    |   	    | [Slides](url) |
  | 3  	    |   	    |   	    | [Slides](url) |
  | 4  	    |   	    |   	    | [Slides](url) |
@@ -24,20 +24,38 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
  
   **TERM 2**
 
- |Date   	|  THINGS TO SUBMIT 	|  Topic 	|   Resource	|
- |---	    |---	    |---	    |---	        |
- | 1  	    |   	    |   	    | [Slides](url) |
- | 2 	    |   	    |   	    | [Slides](url) |
- | 3  	    |   	    |   	    | [Slides](url) |
- | 4  	    |   	    |   	    | [Slides](url) |
- | 5  	    |   	    |   	    | [Slides](url) |
- | 6  	    |   	    |   	    | [Slides](url) |
- | 7  	    |   	    |   	    | [Slides](url) |
- | 8  	    |   	    |   	    | [Slides](url) | 	
- | 9  	    |   	    |   	    | [Slides](url) |
- | 10  	  |   	    |   	    | [Slides](url) |
- | 11  	  |   	    |   	    | [Slides](url) |
- | 12  	  |   	    |   	    | [Slides](url) |
- | 13  	  |   	    |   	    | [Slides](url) |
+|  Date 	       |  Topic 	|   Resource	 | TO DO |
+|---	           |---	     |---	         |---	   |
+| Jan 12, 2022  |         |             |   | 
+| Jan 14, 2022  |         |             |   | 
+| Jan 19, 2022  |         |             |   | 
+| Jan 21, 2022  |         |             |   | 
+| Jan 26, 2022  |         |             |   | 
+| Jan 28, 2022  |         |             |   |
+| Feb 2, 2022   |         |             |   |
+| Feb 4, 2022   |         |             |   |
+| Feb 9, 2022   |         |             |   |
+| Feb 11, 2022  |         |             |   |
+| Feb 16, 2022  |         |             |   |
+| Feb 18, 2022  |         |             |   |
+| Feb 23, 2022  |   NO    |  CLASS      |      MIDTERM   BREAK|
+| Feb 25, 2022  |   NO    |  CLASS      |      MIDTERM   BREAK|
+| Mar 2, 2022   |         |             |   |
+| Mar 4, 2022   |         |             |   |
+| Mar 9, 2022   |         |             |   |
+| Mar 11, 2022  |         |             |   |
+| Mar 16, 2022  |         |             |   |
+| Mar 18, 2022  |         |             |   |
+| Mar 23, 2022  |         |             |   |
+| Mar 25, 2022  |         |             |   |
+| Apr 1, 2022   |         |             |   |
+| Apr 6, 2022   |         |             |   |
+| Apr 8, 2022   |         |             |   |
+| Apr 13, 2022  |         |             |   |
+| Apr 15, 2022  |    NO   |  CLASS      |   (GOOD FRIDAY)|
+| Apr 20, 2022  |         |             |   |
+| Apr 22, 2022  |         |             |   |
+
+
 
 
