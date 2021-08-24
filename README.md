@@ -110,8 +110,8 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td >Sep 24, 2021</td>
     <td >Agile Software development </td>
-    <td >Project repo, ⊗<a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td >Project repo, ⊗</td>
   </tr>
     <tr>
     <td rowspan="2"> 4</td>
@@ -123,8 +123,8 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td >Oct 1, 2021</td>
     <td >Requirements</td>
-    <td >⊗<a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td >⊗</td>
   </tr>
   <tr>
     <td rowspan="2">5</td>
@@ -156,13 +156,13 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td rowspan="2"> 7</td>
     <td >Oct 20, 2021</td>
     <td >Work on Requirements</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
    <td ></td>
   </tr>
   <tr>
     <td >Oct 22, 2021</td>
     <td >Work on Requirements</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
     <td >Requirements report †,⊗ </td>
   </tr>
   <td>8</td>
@@ -171,14 +171,14 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td rowspan="2">9</td>
     <td >Nov 3, 2021</td>
     <td >Presentations</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
    <td ></td>
   </tr>
   <tr>
     <td >Nov 5, 2021</td>
     <td >Presentations</td>
-    <td >⊗<a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
     <td ></td>
+    <td >⊗</td>
   </tr>
   <tr>
     <td>10</td>
@@ -188,40 +188,40 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td rowspan="2"> 11</td>
     <td >Nov 17, 2021</td>
     <td >Peer testing (set up)</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
    <td ></td>
   </tr>
   <tr>
     <td >Nov 19, 2021</td>
     <td >Peer testing (set up)</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
     <td >Sig up for peer testing, ⊗</td>
   </tr>
   <tr>
     <td rowspan="2">12</td>
     <td >Nov 24, 2021</td>
     <td >Peer testing #1</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
    <td ></td>
   </tr>
   <tr>
     <td >Nov 26, 2021</td>
     <td >Peer testing #1</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
     <td >⊗</td>
   </tr>
   <tr>
     <td rowspan="2">13</td>
     <td >Dec 1, 2021</td>
     <td >Client feedback</td>
-    <td >Peer testing Report<a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-   <td >Video demo†</td>
+    <td ></td>
+   <td >Peer testing Report, Video demo†</td>
   </tr>
   <tr>
     <td >Dec 3, 2021</td>
     <td > Client feedback</td>
     <td ></td>
-    <td >peer evaluations, ⊗ <a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td >peer evaluations, ⊗ </td>
  </tr>
  
 </tbody>
