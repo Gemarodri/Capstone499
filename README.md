@@ -92,7 +92,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Sep 15, 2021</td>
     <td >GitHub for Software development</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-   <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/IndividualGitHub.md">Individual GitHub Exercise</a>  </td>
+   <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/IndividualGitHub.md">Individual GitHub Exercise</a>  </td>
   </tr>
   <tr>
     <td >Sep 17, 2021</td>
