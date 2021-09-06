@@ -55,7 +55,7 @@ attained
 
 **Required Readings and Videos:** Independent research depending on project needs
 
-**Other Useful Information for the Students**: Useful information about Grievances anc complaints procedures, Academic integrity, Disability Assistance, Equity, Human Rights, Discrimination and Harassment, Health & Wellness, Sexual Violence Prevention and Response Office, Independent Investigations Office, and The Hub can be found in in [More Info](MoreInformation.md)(Please, read it carefully)
+**Other Useful Information for the Students**: Useful information about Grievances anc complaints procedures, Academic integrity, Disability Assistance, Equity, Human Rights, Discrimination and Harassment, Health & Wellness, Sexual Violence Prevention and Response Office, Independent Investigations Office, and The Hub can be found in [More Info](MoreInformation.md)(Please, read it carefully)
 
 
 ## Tentative shedule (TERM 1)
@@ -78,90 +78,90 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td rowspan="2"> 1</td>
     <td >Sep 8, 2021</td>
     <td >Intro to the course</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-   <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/">Soon</a>,<a href="https://canvas.ubc.ca/courses/88687/external_tools/187"> Introduction to Intellectual Property</a></td>
+   <td > Introduce yourself (Canvas)</td>
   </tr>
   <tr>
     <td >Sep 10, 2021</td>
-    <td >Intro to software teams</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-    <td >Survey</td>
+    <td >Intro to teams</td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides">Soon</a>,<a href="https://github.com/brandongk-ubco/gitstats"> GitStats </a></td>
+    <td >Surveys (Canvas)</td>
   </tr>
   <tr>
     <td rowspan="2">2</td>
     <td >Sep 15, 2021</td>
     <td >GitHub for Software development</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
-   <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/IndividualGitHub.md">Individual GitHub Exercise</a>  </td>
+    <td ></td>
+   <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/IndividualGitHub.md">Individual GitHub Exercise</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/IPagreement.pdf"> IP agreement</a></td>
   </tr>
   <tr>
     <td >Sep 17, 2021</td>
-    <td >GitHub for Software development </td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td> </td>
+     <td ></td>
     <td >Group GitHub Exercise</td>
   </tr>
   <tr>
     <td rowspan="2">3</td>
     <td >Sep 22, 2021</td>
-    <td >Agile Software development</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td > </td>
+    <td ></td>
    <td ></td>
   </tr>
   <tr>
     <td >Sep 24, 2021</td>
-    <td >Agile Software development </td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td > </td>
+    <td ></td>
     <td >Project repo, ⊗</td>
   </tr>
     <tr>
     <td rowspan="2"> 4</td>
     <td >Sep 29, 2021</td>
-    <td >Requirements</td>
-   <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+    <td ></td>
    <td ></td>
   </tr>
   <tr>
     <td >Oct 1, 2021</td>
-    <td >Requirements</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+     <td ></td>
     <td >⊗</td>
   </tr>
   <tr>
     <td rowspan="2">5</td>
     <td >Oct 5, 2021</td>
     <td >Test Strategies</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides">soon</a></td>
    <td ></td>
   </tr>
   <tr>
     <td >Oct 8, 2021</td>
-    <td >Test Strategies</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+     <td ></td>
     <td >⊗</td>
   </tr>
   <tr>
     <td rowspan="2">6</td>
     <td >Oct 12, 2021</td>
-    <td >Data Flow Diagrams</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+     <td ></td>
    <td ></td>
   </tr>
   <tr>
     <td >Oct 15, 2021</td>
-    <td >Data Flow Diagrams</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/test.pptx">Slides</a></td>
+    <td ></td>
+     <td ></td>
     <td >⊗</td>
   </tr>
   <tr>
     <td rowspan="2"> 7</td>
     <td >Oct 20, 2021</td>
-    <td >Work on Requirements</td>
+     <td ></td>
     <td ></td>
    <td ></td>
   </tr>
   <tr>
     <td >Oct 22, 2021</td>
-    <td >Work on Requirements</td>
+     <td ></td>
     <td ></td>
     <td >Requirements report †,⊗ </td>
   </tr>
