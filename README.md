@@ -69,7 +69,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <th>Week </th>
     <th>Date</th>
     <th>Topic</th>
-    <th>Resource</th>
+    <th>Resources</th>
     <th>THINGS TO SUBMIT</th>
   </tr>
 </thead>
@@ -84,15 +84,15 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td >Sep 10, 2021</td>
     <td >Intro to teams</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides">Soon</a>,<a href="https://github.com/brandongk-ubco/gitstats"> GitStats </a></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides">Soon</a></td>
     <td >Surveys (Canvas)</td>
   </tr>
   <tr>
     <td rowspan="2">2</td>
     <td >Sep 15, 2021</td>
     <td >GitHub for Software development</td>
-    <td ></td>
-   <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/IndividualGitHub.md">Individual GitHub Exercise</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/IPagreement.pdf"> IP agreement</a></td>
+    <td ><a href="https://github.com/brandongk-ubco/gitstats"> GitStats </a></td>
+   <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/IndividualGitHub.md">Individual GitHub Exercise</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/IPagreement.pdf"> IP agreement</a></td>
   </tr>
   <tr>
     <td >Sep 17, 2021</td>
