@@ -79,46 +79,46 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Sep 8, 2021</td>
     <td >Intro to the course</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/">Soon</a>,<a href="https://canvas.ubc.ca/courses/88687/external_tools/187"> Introduction to Intellectual Property</a></td>
-   <td > Introduce yourself (Canvas)</td>
+   <td > Introductions (Canvas)</td>
   </tr>
   <tr>
     <td >Sep 10, 2021</td>
-    <td >Intro to teams</td>
+    <td >Project Overview</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides">Soon</a></td>
-    <td >Surveys (Canvas)</td>
+    <td >Complete survey (Canvas)</td>
   </tr>
   <tr>
     <td rowspan="2">2</td>
     <td >Sep 15, 2021</td>
     <td >GitHub for Software development</td>
     <td ><a href="https://github.com/brandongk-ubco/gitstats"> GitStats </a></td>
-   <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/IndividualGitHub.md">Individual GitHub Exercise</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/IPagreement.pdf"> IP agreement</a></td>
+   <td ></td>
   </tr>
   <tr>
     <td >Sep 17, 2021</td>
     <td> </td>
      <td ></td>
-    <td >Group GitHub Exercise</td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/IndividualGitHub.md">Individual GitHub Exercise</a>,</td>
   </tr>
   <tr>
     <td rowspan="2">3</td>
     <td >Sep 22, 2021</td>
-    <td > </td>
-    <td ></td>
-   <td ></td>
+    <td >Setting up your Project in Github</td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/IPagreement.pdf"> IP agreement Template</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/Agile">Agile information</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/Agile/SprintPlanning.md">SprintPlaning</a> </td>
+   <td  ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/TeamGitHub.md">Team GitHub Exercise</a></td>
   </tr>
   <tr>
     <td >Sep 24, 2021</td>
-    <td > </td>
-    <td ></td>
-    <td >Project repo, ⊗</td>
+    <td > Setting up your Project in Github </td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/features.md"> Features</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/taskestimation.md"> Task estimation</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/dashboard.md"> Project Dashboard</a> </td>
+    <td >Client Meeting info, Teams Spreadsheet, IP agreement, ⊗</td>
   </tr>
     <tr>
     <td rowspan="2"> 4</td>
     <td >Sep 29, 2021</td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/week4.md"> Suggested steps</a></td>
     <td ></td>
-    <td ></td>
-   <td ></td>
+   <td >Project repo</td>
   </tr>
   <tr>
     <td >Oct 1, 2021</td>
@@ -129,8 +129,8 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td rowspan="2">5</td>
     <td >Oct 5, 2021</td>
-    <td >Test Strategies</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides">soon</a></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/week5.md"> Suggested steps</a></td>
+    <td ></td>
    <td ></td>
   </tr>
   <tr>
@@ -142,7 +142,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td rowspan="2">6</td>
     <td >Oct 12, 2021</td>
-    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/week6.md"> Suggested steps</a></td>
      <td ></td>
    <td ></td>
   </tr>
@@ -150,33 +150,33 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Oct 15, 2021</td>
     <td ></td>
      <td ></td>
-    <td >⊗</td>
+    <td >Requirements video presentation †, ⊗</td>
   </tr>
   <tr>
     <td rowspan="2"> 7</td>
     <td >Oct 20, 2021</td>
-     <td ></td>
+     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/week7.md"> Suggested steps</a></td>
     <td ></td>
-   <td ></td>
+   <td >Requirements report †</td>
   </tr>
   <tr>
     <td >Oct 22, 2021</td>
      <td ></td>
     <td ></td>
-    <td >Requirements report †,⊗ </td>
+    <td > group evals, peer evals ⊗ </td>
   </tr>
   <td>8</td>
     <td colspan="4" >No class (I'm Away)</td>
   <tr>
     <td rowspan="2">9</td>
     <td >Nov 3, 2021</td>
-    <td >Presentations</td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/week9.md"> Suggested steps</a></td>
     <td ></td>
    <td ></td>
   </tr>
   <tr>
     <td >Nov 5, 2021</td>
-    <td >Presentations</td>
+    <td ></td>
     <td ></td>
     <td >⊗</td>
   </tr>
@@ -195,7 +195,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Nov 19, 2021</td>
     <td >Peer testing (set up)</td>
     <td ></td>
-    <td >Sig up for peer testing, ⊗</td>
+    <td >Sign up for peer testing, ⊗</td>
   </tr>
   <tr>
     <td rowspan="2">12</td>
@@ -208,14 +208,14 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Nov 26, 2021</td>
     <td >Peer testing #1</td>
     <td ></td>
-    <td >⊗</td>
+    <td > Video demo † </td>
   </tr>
   <tr>
     <td rowspan="2">13</td>
     <td >Dec 1, 2021</td>
     <td >Client feedback</td>
     <td ></td>
-   <td >Peer testing Report, Video demo†</td>
+   <td >Peer testing Report,</td>
   </tr>
   <tr>
     <td >Dec 3, 2021</td>
