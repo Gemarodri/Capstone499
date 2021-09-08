@@ -78,7 +78,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td rowspan="2"> 1</td>
     <td >Sep 8, 2021</td>
     <td >Intro to the course</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/">Soon</a>,<a href="https://canvas.ubc.ca/courses/88687/external_tools/187"> Introduction to Intellectual Property</a></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/INTRO.pdf">Slides</a>,<a href="https://canvas.ubc.ca/courses/88687/external_tools/187"> Introduction to Intellectual Property</a></td>
    <td > Introductions (Canvas)</td>
   </tr>
   <tr>
