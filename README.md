@@ -84,14 +84,14 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td >Sep 10, 2021</td>
     <td >Project Overview</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides">Soon</a></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides">Soon</a>,<a href="https://github.com/brandongk-ubco/gitstats"> GitStats </a></td>
     <td >Complete survey (Canvas)</td>
   </tr>
   <tr>
     <td rowspan="2">2</td>
     <td >Sep 15, 2021</td>
     <td >GitHub for Software development</td>
-    <td ><a href="https://github.com/brandongk-ubco/gitstats"> GitStats </a></td>
+    <td ></td>
    <td ></td>
   </tr>
   <tr>
@@ -103,13 +103,13 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td rowspan="2">3</td>
     <td >Sep 22, 2021</td>
-    <td >Setting up your Project in Github</td>
+    <td ></td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/IPagreement.pdf"> IP agreement Template</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/Agile">Agile information</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/Agile/SprintPlanning.md">SprintPlaning</a> </td>
    <td  ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/TeamGitHub.md">Team GitHub Exercise</a></td>
   </tr>
   <tr>
     <td >Sep 24, 2021</td>
-    <td > Setting up your Project in Github </td>
+    <td > </td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/features.md"> Features</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/taskestimation.md"> Task estimation</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/dashboard.md"> Project Dashboard</a> </td>
     <td >Client Meeting info, Teams Spreadsheet, IP agreement, ⊗</td>
   </tr>
