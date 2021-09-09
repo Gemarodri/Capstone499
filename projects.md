@@ -8,6 +8,8 @@ Our company Checklick is a web-based skills development platform based in Toront
 Checklick is a Ruby on Rails 4.2 application, running Ruby 2.5.5.  We are using Postgres 9.6 as our database. The project will be divided into two sections that run parallel to one another: the first will be to implement a new frontend framework to our web application in order to make it more responsive and user friendly. We have decided to utilize Bulma as we consider it to be the most robust and easiest framework to learn as well as the most adaptive for implementation and contains the necessary components for our application. 
 In addition, we would like to integrate a new library to our frontend with the objective of improving the readability of our code as well as improving the performance of the client-side application. Currently, our frontend is built on HTML, CSS, Javascript and Jquery. We want to integrate React as our new library as it is easy to learn and integrate into projects, in addition to being a library with a wide community of developers so it is easy to find documentation to resolve any issues we may encounter. 
 
+More info about this project on Canvas. Look under Files/Projects Info
+
 
 ## Project 2: AGMEETING
 ### Organization Background
@@ -51,6 +53,7 @@ This application will be a teaching aid for courses in applied ethics at the Col
 ### Description
 The “Ethics Dashboard” will be employed by students to conduct case studies in ethics courses. The capstone project will be the first stage of a multistage project so it should be modularized such that the back end can be easily updated with future iterations. Also, a historical database should be created to securely store and collate all inputs from students and markers detached from individual identities. Some information about the project: (1) It should give support up to 120 students with private accounts that can allow them to work with up to five cases per term. (2) The user interface will need to offer text inputs on multiple pages that can be cross referenced. There are also simpler inputs such as check boxes that need to be totalled and sliders that should calculate averages. (3) Markers/professors will need be able to post in-text feedback and marks on a progress page. (4) Students should be able to download selected sections into report. (5) Markers/Professors should be able to download text reports for individual students and an Excel document with students’ marks for each class. 
 
+More info about this project on Canvas. Look under Files/Projects Info
 
 ## Project 7: Woo Woo network
 ### Organization Background
@@ -83,3 +86,4 @@ General Objectives:
 10. Easy to operate module system for any laboratory persons. 
 11. Clients’ portal to access test results and invoices 
 
+More info about this project on Canvas. Look under Files/Projects Info
