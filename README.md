@@ -84,33 +84,34 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td >Sep 10, 2021</td>
     <td >Project Overview</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides">Soon</a>,<a href="https://github.com/brandongk-ubco/gitstats"> GitStats </a></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/TEAMS.pdf">Slides</a>,<a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/agile.md">Agile Software development</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/ScrumTemplate.pdf">Template</a>,<a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/planning.md">Sprint Planning</a>,<a href="https://thedigitalprojectmanager.com/how-run-sprint-retrospective">Sprint retrospective</a>
+    </td>
     <td >Complete survey (Canvas)</td>
   </tr>
   <tr>
     <td rowspan="2">2</td>
     <td >Sep 15, 2021</td>
     <td >GitHub for Software development</td>
-    <td ></td>
+    <td ><a href="https://github.com/brandongk-ubco/gitstats"> GitStats </a>,<a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/features.md"> Features</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/taskestimation.md"> Task estimation</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/dashboard.md"> Project Dashboard</a> </td>
    <td ></td>
   </tr>
   <tr>
     <td >Sep 17, 2021</td>
-    <td> </td>
-     <td ></td>
+    <td> Time for work with your team </td>
+     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/IPagreement.pdf"> IP agreement Template</a>,</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/IndividualGitHub.md">Individual GitHub Exercise</a>,</td>
   </tr>
   <tr>
     <td rowspan="2">3</td>
     <td >Sep 22, 2021</td>
     <td ></td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/IPagreement.pdf"> IP agreement Template</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/Agile">Agile information</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/Agile/SprintPlanning.md">SprintPlaning</a> </td>
+    <td >
    <td  ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/TeamGitHub.md">Team GitHub Exercise</a></td>
   </tr>
   <tr>
     <td >Sep 24, 2021</td>
     <td > </td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/features.md"> Features</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/taskestimation.md"> Task estimation</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/dashboard.md"> Project Dashboard</a> </td>
+    <td ></td>
     <td >Client Meeting info, Teams Spreadsheet, IP agreement, ⊗</td>
   </tr>
     <tr>
