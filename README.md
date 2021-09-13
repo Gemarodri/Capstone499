@@ -11,9 +11,7 @@ This entire course is a group project that will consist of labs supported by the
 
 **Duraton:** Winter 2021 term 1-2, 6 Credits
 
-**Laboratory:** Wednesdays 8-9:30, ASC 130
-
-**Lectures:** Fridays 8-9:30, ASC 130
+**Laboratory/Lectures:** Wednesdays, Fridays 8-9:30, ASC 130
 
 **Office Hours** By appointment only. Send me an email.
 
