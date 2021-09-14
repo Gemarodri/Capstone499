@@ -90,7 +90,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td rowspan="2">2</td>
     <td >Sep 15, 2021</td>
     <td >GitHub for Software development</td>
-    <td ><a href="https://github.com/brandongk-ubco/gitstats"> GitStats </a>,<td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/RunGitStast"> Run GitStats </a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/features.md"> Features</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/taskestimation.md"> Task estimation</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/dashboard.md"> Project Dashboard</a> </td>
+    <td ><a href="https://github.com/brandongk-ubco/gitstats"> GitStats </a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/RunGitStast.md"> Run GitStats </a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/features.md"> Features</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/taskestimation.md"> Task estimation</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/dashboard.md"> Project Dashboard</a> </td>
    <td ></td>
   </tr>
   <tr>
