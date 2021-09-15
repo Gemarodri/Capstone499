@@ -27,7 +27,7 @@
         1. Show your Github account and the repo with your work: In your repo, navigate to Insights, select Network, and show the network graph of your repo
         2. Show you running the program you created: Make sure you talk through this demo so we know what you are trying to program, what the in/outputs are.  Run the tests you created and show the output. Explain what the expected in/outputs are and show if the test cases you ran worked or not
         3. Make a simple change locally and push to origin: Locally, make a simple change like add an inline comment to your code. Commit the change and push to origin. Be sure to show the result of that on your machine so that all changes have been pushed successfully
-    - Submit this on Canvas by Sep 15, 2021 (before the beginning of the class)
+    - Submit this on Canvas by Sep 17, 2021 (before the beginning of the class)
 
 - Grading: will go towards your weekly marks:
     - You will not be graded on the completenss of the code, or the originality of the program, or how many tests you write
