@@ -43,7 +43,7 @@ This is probably because you are not labeling them properly. Make sure you follo
 This is probably because you have an incorrect date range specified. The script looks for merge dates, not commit dates. So make sure you start and end at the right days and times.
 
 ### What should the start and end dates be for this week's report?
-Most reports are for one week's worth of progress. To standardize all the update reports, use the start date as last Wednesday's date at 10:30 AM and the end date as this Wednesday's date at 10:30 AM. Note: don't use 22:30 because that is 10:30 PM. Second note: don't use a later end time, because that means if you start at 10:30AM next week, you will end up double counting some of the work.
+Most reports are for one week's worth of progress. To standardize all the update reports, use the start date as last Friday's date at 8:00 AM and the end date as this Friday's date at 8:00 AM. Second note: don't use a later end time, because that means if you start at 80:00AM next week, you will end up double counting some of the work.
 
 ### One or more of the repo contributors is not showing up. Why is that? 
 This is probably because that missing user did not commit work to any of the PRs. What this means is, if you don't follow the git process properly by using PRs, even if you write code and commit it to the repo, it will not count. The commits need to be associated with a PR. Recall the purpose of this exercise was to introduce the git process to you. So use this opportunity to practice it.
