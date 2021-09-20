@@ -110,7 +110,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Sep 24, 2021</td>
     <td > </td>
     <td ></td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/TeamGitHub.md">Team GitHub Exercise</a>, Client Meeting info in the teams Spreadsheet, ⊗</td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/TeamGitHubExercise.md">Team GitHub Exercise</a>, Client Meeting info in the teams Spreadsheet, ⊗</td>
   </tr>
     <tr>
     <td rowspan="2"> 4</td>
