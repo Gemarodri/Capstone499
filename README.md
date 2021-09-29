@@ -115,7 +115,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <tr>
     <td rowspan="2"> 4</td>
     <td >Sep 29, 2021</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/week4.md"> Suggested steps</a></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week4.md"> Suggested steps</a></td>
     <td ></td>
    <td >Project repo</td>
   </tr>
@@ -128,7 +128,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td rowspan="2">5</td>
     <td >Oct 5, 2021</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/week5.md"> Suggested steps</a></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week5.md"> Suggested steps</a></td>
     <td ></td>
    <td ></td>
   </tr>
@@ -141,7 +141,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td rowspan="2">6</td>
     <td >Oct 12, 2021</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/week6.md"> Suggested steps</a></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week6.md"> Suggested steps</a></td>
      <td ></td>
    <td ></td>
   </tr>
@@ -154,7 +154,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td rowspan="2"> 7</td>
     <td >Oct 20, 2021</td>
-     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/week7.md"> Suggested steps</a></td>
+     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week7.md"> Suggested steps</a></td>
     <td ></td>
    <td >Requirements report †</td>
   </tr>
@@ -169,7 +169,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td rowspan="2">9</td>
     <td >Nov 3, 2021</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/week9.md"> Suggested steps</a></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week9.md"> Suggested steps</a></td>
     <td ></td>
    <td ></td>
   </tr>
