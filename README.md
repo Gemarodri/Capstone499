@@ -143,13 +143,13 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Oct 12, 2021</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week6.md"> Suggested steps</a></td>
      <td ></td>
-   <td ></td>
+   <td >Requirements video presentation †</td>
   </tr>
   <tr>
     <td >Oct 15, 2021</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week6.md"> Suggested steps</a></td>
      <td ></td>
-    <td >Requirements video presentation †, ⊗</td>
+    <td >group evaluation, ⊗</td>
   </tr>
   <tr>
     <td rowspan="2"> 7</td>
@@ -162,7 +162,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Oct 22, 2021</td>
      <td ></td>
     <td ></td>
-    <td > group evals, peer evals ⊗ </td>
+    <td > peer evals ⊗ </td>
   </tr>
   <td>8</td>
     <td colspan="4" >No class (I'm Away)</td>
