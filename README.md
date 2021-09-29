@@ -116,8 +116,8 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td rowspan="2"> 4</td>
     <td >Sep 29, 2021</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week4.md"> Suggested steps</a></td>
-    <td ></td>
-   <td >Project repo</td>
+    <td ><a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/testing.md"> Testing strategies </a>  </td>
+   <td >Create the GitHub repo for yor project</td>
   </tr>
   <tr>
     <td >Oct 1, 2021</td>
