@@ -127,7 +127,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   </tr>
   <tr>
     <td rowspan="2">5</td>
-    <td >Oct 5, 2021</td>
+    <td >Oct 6, 2021</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week5.md"> Suggested steps</a></td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/RequirementsMilestone.md"> Criteria for Requirements Milestone</a></td>
    <td ></td>
@@ -140,15 +140,15 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   </tr>
   <tr>
     <td rowspan="2">6</td>
-    <td >Oct 12, 2021</td>
+    <td >Oct 13, 2021</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week6.md"> Suggested steps</a></td>
-     <td ></td>
+     <td></td>
    <td >Requirements video presentation †</td>
   </tr>
   <tr>
     <td >Oct 15, 2021</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week6.md"> Suggested steps</a></td>
-     <td ></td>
+     <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/Group_eval_rubric.md"> Rubric for the Group Evaluations</a></td>
     <td >group evaluation, ⊗</td>
   </tr>
   <tr>
