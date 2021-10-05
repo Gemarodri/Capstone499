@@ -26,7 +26,7 @@ Also note that your report and presentation are graded separately. When the grad
 
 ## Presentation Expectations
 
-Each group gets 6-8 minutes to present a subset of the material from the report. All members of your team must present an equal amount of content. You will be evaluated based on:
+Each group gets 8-10 minutes to present a subset of the material from the report. All members of your team must present an equal amount of content. You will be evaluated based on:
 - (5%) Professionalism, timeliness, display of teamwork
 - (5%) Overall speech and high level descriptions
 - (5%) Clarity in organization, use of diagrams, general aesthetics
