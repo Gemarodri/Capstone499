@@ -136,7 +136,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Oct 8, 2021</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week5.md"> Suggested steps</a></td>
      <td ></td>
-    <td >⊗</td>
+    <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2">6</td>
@@ -149,7 +149,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Oct 15, 2021</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week6.md"> Suggested steps</a></td>
      <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/Group_eval_rubric.md"> Rubric for the Group Evaluations</a></td>
-    <td >group evaluation, ⊗</td>
+    <td >group evaluation(due to 11:59 pm), ⊗(due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> 7</td>
@@ -162,7 +162,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Oct 22, 2021</td>
      <td ></td>
     <td ></td>
-    <td > peer evals ⊗ </td>
+    <td > peer evals, ⊗ (due to 11:59 pm)</td>
   </tr>
   <td>8</td>
     <td colspan="4" >No class (I'm Away)</td>
@@ -177,7 +177,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Nov 5, 2021</td>
     <td ></td>
     <td ></td>
-    <td >⊗</td>
+    <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td>10</td>
@@ -220,7 +220,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Dec 3, 2021</td>
     <td > Client feedback</td>
     <td ></td>
-    <td >peer evaluations, ⊗ </td>
+    <td >peer evaluations, ⊗ (due to 11:59 pm) </td>
  </tr>
  
 </tbody>
