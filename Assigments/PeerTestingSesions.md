@@ -1,4 +1,4 @@
-# Peer Testing Session
+# Peer Testing Sessions
 
 The purpose is to get user feedback on your system. To keep things simple, your users will be classmates in COSC 499 and you will run heuristic evaluation with them.
 
