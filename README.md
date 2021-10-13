@@ -188,7 +188,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td rowspan="2"> 11</td>
     <td >Nov 17, 2021</td>
     <td >Peer testing (set up)</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/edit/main/Assigments/PeerEvaluation.md"> Criteria for Peer Testing</a></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/edit/main/Assigments/PeerTestingSesions.md"> Criteria for Peer Testing</a></td>
    <td ></td>
   </tr>
   <tr>
