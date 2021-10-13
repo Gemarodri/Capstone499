@@ -188,14 +188,14 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td rowspan="2"> 11</td>
     <td >Nov 17, 2021</td>
     <td >Peer testing (set up)</td>
-    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/edit/main/Assigments/PeerEvaluation.md"> Criteria for Peer Testing</a></td>
    <td ></td>
   </tr>
   <tr>
     <td >Nov 19, 2021</td>
     <td >Peer testing (set up)</td>
     <td ></td>
-    <td >Sign up for peer testing, Video demo †, ⊗</td>
+    <td >Sign up for peer testing, ⊗(due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2">12</td>
@@ -208,14 +208,14 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Nov 26, 2021</td>
     <td >Peer testing #1</td>
     <td ></td>
-    <td >⊗ (due to 11:59 pm)</td>
+    <td >Video demo †, ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2">13</td>
     <td >Dec 1, 2021</td>
     <td >Client feedback</td>
     <td ></td>
-   <td >Peer testing Report,</td>
+   <td >Peer testing Report</td>
   </tr>
   <tr>
     <td >Dec 3, 2021</td>
