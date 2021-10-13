@@ -1,4 +1,4 @@
-## Grading Group Evaluations
+## Grading Group and Peer Evaluations
 
 To assess the quality of the evaluations your team entered into the system, we want to look at how many the team have completed and also how thoughtful and useful the comments are for others. If a student has not participated in the group evaluation, the student will get a O. If all the students have participated, they will have the same grade.
 Your group evals  are marked out of 3, following the rubric below:
