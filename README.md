@@ -155,12 +155,13 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td rowspan="2"> 7</td>
     <td >Oct 20, 2021</td>
      <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week7.md"> Suggested steps</a></td>
-    <td ></td>
+    <td ><a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/best_practices.md"> Coding Best practices</a>,
+       <a href="https://drive.google.com/file/d/1hlTaBNjvvH14oY4eSOJkMBSWrICa70si/view</td>"> Implementing continuous integration</a></td>
    <td >Requirements report † (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td >Oct 22, 2021</td>
-     <td > <a href=https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/best_practices.md"> Coding Best practices</a></td>
+    <td></td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerEvaluationCriteria.md"> Peer Evaluation Criteria</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/Peer_eval_rubric.md"> Rubric for the Peer Evaluations</a></td>
     <td > peer evals(due to 11:59 pm), ⊗ (due to 11:59 pm)</td>
   </tr>
