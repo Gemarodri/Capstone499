@@ -160,7 +160,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   </tr>
   <tr>
     <td >Oct 22, 2021</td>
-     <td > </td>
+     <td > <a href=https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/best_practices.md"> Coding Best practices</a></td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerEvaluationCriteria.md"> Peer Evaluation Criteria</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/Peer_eval_rubric.md"> Rubric for the Peer Evaluations</a></td>
     <td > peer evals(due to 11:59 pm), ⊗ (due to 11:59 pm)</td>
   </tr>
