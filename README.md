@@ -195,7 +195,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Nov 19, 2021</td>
     <td >Peer testing (set up)</td>
     <td ></td>
-    <td >Sign up for peer testing, ⊗</td>
+    <td >Sign up for peer testing, Video demo †, ⊗</td>
   </tr>
   <tr>
     <td rowspan="2">12</td>
@@ -208,7 +208,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Nov 26, 2021</td>
     <td >Peer testing #1</td>
     <td ></td>
-    <td > Video demo † </td>
+    <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2">13</td>
