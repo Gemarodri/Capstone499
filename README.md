@@ -156,13 +156,13 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Oct 20, 2021</td>
      <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week7.md"> Suggested steps</a></td>
     <td ></td>
-   <td >Requirements report †</td>
+   <td >Requirements report † (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td >Oct 22, 2021</td>
-     <td ></td>
-    <td ></td>
-    <td > peer evals, ⊗ (due to 11:59 pm)</td>
+     <td > </td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerEvaluationCriteria.md"> Peer Evaluation Criteria</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/Group_eval_rubric.md"> Rubric for the Peer Evaluations</a></td>
+    <td > peer evals(due to 11:59 pm), ⊗ (due to 11:59 pm)</td>
   </tr>
   <td>8</td>
     <td colspan="4" >No class (I'm Away)</td>
