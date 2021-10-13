@@ -156,7 +156,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Oct 20, 2021</td>
      <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week7.md"> Suggested steps</a></td>
     <td ><a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/best_practices.md"> Coding Best practices</a>,
-       <a href="https://drive.google.com/file/d/1hlTaBNjvvH14oY4eSOJkMBSWrICa70si/view</td>"> Implementing continuous integration</a></td>
+       <a href="https://drive.google.com/file/d/1hlTaBNjvvH14oY4eSOJkMBSWrICa70si/view"> Implementing continuous integration</a></td>
    <td >Requirements report † (due to 11:59 pm)</td>
   </tr>
   <tr>
