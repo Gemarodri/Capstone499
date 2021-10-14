@@ -226,3 +226,11 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
  
 </tbody>
 </table>
+
+
+**TERM 2**
+
+**Milestone #3: Peer testing #2 --> March 2-4, 2022**
+**Milestone #4: Final Product and deliverables --> April 22, 2022*
+
+
