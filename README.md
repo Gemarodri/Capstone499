@@ -76,7 +76,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Sep 8, 2021</td>
     <td >Intro to the course</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/INTRO.pdf">Slides</a>,<a href="https://canvas.ubc.ca/courses/88687/external_tools/187"> Introduction to Intellectual Property</a></td>
-   <td > Introductions (Canvas)</td>
+    <td > Introductions (Canvas)</td>
   </tr>
   <tr>
     <td >Sep 10, 2021</td>
@@ -95,7 +95,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td >Sep 17, 2021</td>
     <td> Time for work with your team </td>
-     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/IPagreement.pdf"> IP agreement Template</a>,</td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/IPagreement.pdf"> IP agreement Template</a>,</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/IndividualGitHub.md">Individual GitHub Exercise</a>,</td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ></td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/TeamGitHubExercise.md">Team GitHub Exercise</a>, Client Meeting info in the teams Spreadsheet, ⊗</td>
   </tr>
-    <tr>
+  <tr>
     <td rowspan="2"> 4</td>
     <td >Sep 29, 2021</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week4.md"> Suggested steps</a></td>
@@ -224,10 +224,12 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ></td>
     <td >peer evaluations, ⊗ (due to 11:59 pm) </td>
   </tr>
-</table>
-    
+ </table>   
+  
+
 ## Tentative shedule (TERM 2)
 
+**TERM2**
 <table>
 <thead>
   <tr>
@@ -404,4 +406,4 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td > Milestone #4</td>
     <td ></td>
     <td ></td>
-
+  </tr>
