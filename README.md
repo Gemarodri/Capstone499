@@ -165,8 +165,10 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerEvaluationCriteria.md"> Peer Evaluation Criteria</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/Peer_eval_rubric.md"> Rubric for the Peer Evaluations</a></td>
     <td > peer evals(due to 11:59 pm), ⊗ (due to 11:59 pm)</td>
   </tr>
-  <td>8</td>
+  <tr>
+    <td>8</td>
     <td colspan="4" >No class (I'm Away)</td>
+  </tr>
   <tr>
     <td rowspan="2">9</td>
     <td >Nov 3, 2021</td>
@@ -223,7 +225,6 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ></td>
     <td >peer evaluations, ⊗ (due to 11:59 pm) </td>
  </tr>
- 
 </tbody>
 </table>
 
@@ -234,4 +235,185 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
 
 **Milestone #4: Final Product and deliverables --> April 22, 2022**
 
+
+<table>
+<thead>
+  <tr>
+    <th>Week </th>
+    <th>Date</th>
+    <th>Topic</th>
+    <th>Resources</th>
+    <th>THINGS TO SUBMIT</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2"> 1</td>
+    <td >Jan 12, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td ></td>
+  </tr>
+   <tr>
+    <td >Jan 14, 2022</td>
+    <td ></td>
+    <td ></td>
+     <td >⊗ (due to 11:59 pm)</td>
+  </tr>
+  <tr>
+    <td rowspan="2"> 2</td>
+    <td >Jan 19, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td ></td>
+  </tr>
+   <tr>
+    <td >Jan 21, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td >⊗ (due to 11:59 pm)</td>
+  </tr>
+  <tr>
+    <td rowspan="2"> 3</td>
+    <td >Jan 26, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td ></td>
+  </tr>
+   <tr>
+    <td >Jan 28, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td >⊗ (due to 11:59 pm)</td>
+  </tr>
+  <tr>
+    <td rowspan="2"> 4</td>
+    <td >Feb 2, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td ></td>
+  </tr>
+   <tr>
+    <td >Feb 4, 2022</td>
+    <td ></td>
+    <td ></td>
+   <td >⊗ (due to 11:59 pm)</td>
+  </tr>
+  <tr>
+    <td rowspan="2"> 5</td>
+    <td >Feb 9, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td ></td>
+  </tr>
+   <tr>
+    <td >Feb 11, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td >⊗ (due to 11:59 pm)</td>
+  </tr>
+   <tr>
+    <td rowspan="2"> 6</td>
+    <td >Feb 16, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td ></td>
+  </tr>
+   <tr>
+    <td >Feb 18, 2022</td>
+    <td ><Peer testing (set up)/td>
+    <td ></td>
+    <td >⊗ (due to 11:59 pm)</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td colspan="4" >MidTerm Break</td>
+  </tr>
+   <tr>
+    <td rowspan="2"> 8</td>
+    <td >Mar 2, 2022</td>
+    <td >Peer testing #2</td>
+    <td ></td>
+    <td ></td>
+  </tr>
+   <tr>
+    <td >Mar 4, 2022</td>
+    <td >Peer testing #2</td>
+    <td ></td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td rowspan="2"> 9</td>
+    <td >Mar 9, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td ></td>
+  </tr>
+   <tr>
+    <td >Mar 11, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td >⊗ (due to 11:59 pm)</td>
+  </tr>
+   <tr>
+    <td rowspan="2"> 10</td>
+    <td >Mar 16, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td ></td>
+  </tr>
+   <tr>
+    <td >Mar 18, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td >⊗ (due to 11:59 pm)</td>
+  </tr>
+  <tr>
+    <td rowspan="2"> 11</td>
+    <td >Mar 23, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td ></td>
+  </tr>
+   <tr>
+    <td >Mar 25, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td >⊗ (due to 11:59 pm)</td>
+  </tr>
+ <tr>
+    <td rowspan="2"> 12</td>
+    <td >Mar 30, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td ></td>
+  </tr>
+   <tr>
+    <td >Apr 1, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td >⊗ (due to 11:59 pm)</td>
+  </tr>
+  <tr>
+    <td rowspan="2"> 13</td>
+    <td >Apr 6, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td ></td>
+  </tr>
+   <tr>
+    <td >Apr 8, 2022</td>
+    <td ></td>
+    <td ></td>
+    <td ></td>
+  </tr>
+  <tr>
+    <td rowspan="2"> Final Product</td>
+     <td >April 22, 2022</td>
+    <td > Milestone #4</td>
+    <td ></td>
+    <td ></td>
+  </tr>
+</tbody>
+</table>
 
