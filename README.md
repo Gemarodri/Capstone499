@@ -224,11 +224,10 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td > Client feedback</td>
     <td ></td>
     <td >peer evaluations, ⊗ (due to 11:59 pm) </td>
- </tr>
+  </tr>
 </tbody>
 </table>
-
-
+    
 **TERM 2**
 
 <table>
