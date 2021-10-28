@@ -226,7 +226,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   </tr>
 </table>
     
-**TERM 2**
+## Tentative shedule (TERM 2)
 
 <table>
 <thead>
@@ -404,6 +404,4 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td > Milestone #4</td>
     <td ></td>
     <td ></td>
-  </tr>
-</table>
 
