@@ -61,6 +61,7 @@ attained
 Note: All items under THINGS TO SUBMIT are due at the beginning of class on the date it is listed. The sign ⊗ denotes the weekly git stat report in PDF for each team. The sign † denotes deliverables that your client will rank.
 
 **TERM 1**
+
 <table>
 <thead>
   <tr>
@@ -230,6 +231,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
 ## Tentative shedule (TERM 2)
 
 **TERM2**
+
 <table>
 <thead>
   <tr>
