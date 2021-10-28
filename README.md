@@ -71,7 +71,6 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <th>THINGS TO SUBMIT</th>
   </tr>
 </thead>
-<tbody>
   <tr>
     <td rowspan="2"> 1</td>
     <td >Sep 8, 2021</td>
@@ -225,7 +224,6 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ></td>
     <td >peer evaluations, ⊗ (due to 11:59 pm) </td>
   </tr>
-</tbody>
 </table>
     
 **TERM 2**
@@ -240,7 +238,6 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <th>THINGS TO SUBMIT</th>
   </tr>
 </thead>
-<tbody>
   <tr>
     <td rowspan="2"> 1</td>
     <td >Jan 12, 2022</td>
@@ -408,6 +405,5 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ></td>
     <td ></td>
   </tr>
-</tbody>
 </table>
 
