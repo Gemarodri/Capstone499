@@ -63,15 +63,15 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
 **TERM 1**
 
 <table>
-<thead>
-  <tr>
-    <th>Week </th>
-    <th>Date</th>
-    <th>Topic</th>
-    <th>Resources</th>
-    <th>THINGS TO SUBMIT</th>
-  </tr>
-</thead>
+  <thead>
+    <tr>
+      <th>Week </th>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Resources</th>
+      <th>THINGS TO SUBMIT</th>
+    </tr>
+  </thead>
   <tr>
     <td rowspan="2"> 1</td>
     <td >Sep 8, 2021</td>
@@ -91,7 +91,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Sep 15, 2021</td>
     <td >GitHub for Software development</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/GITHUB.pdf"> Slides </a>,<a href="https://github.com/brandongk-ubco/gitstats"> GitStats </a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/RunGitStast.md"> Run GitStats </a>, <a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/issues.md"> Features</a>, <a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/estimation.md"> Task estimation</a>, <a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/dashboard.md"> Project Dashboard</a> </td>
-   <td ></td>
+    <td ></td>
   </tr>
   <tr>
     <td >Sep 17, 2021</td>
@@ -104,7 +104,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Sep 22, 2021</td>
     <td ></td>
     <td >
-   <td  ></td>
+    <td  ></td>
   </tr>
   <tr>
     <td >Sep 24, 2021</td>
@@ -117,12 +117,12 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Sep 29, 2021</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week4.md"> Suggested steps</a></td>
     <td ><a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/testing.md"> Testing strategies </a>  </td>
-   <td >Create the GitHub repo for yor project</td>
+    <td >Create the GitHub repo for yor project</td>
   </tr>
   <tr>
     <td >Oct 1, 2021</td>
-     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week4.md"> Suggested steps</a></td>
-     <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week4.md"> Suggested steps</a></td>
+    <td ></td>
     <td >⊗</td>
   </tr>
   <tr>
@@ -135,29 +135,29 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td >Oct 8, 2021</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week5.md"> Suggested steps</a></td>
-     <td ></td>
+    <td ></td>
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2">6</td>
     <td >Oct 13, 2021</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week6.md"> Suggested steps</a></td>
-     <td></td>
-   <td >Requirements video presentation †</td>
+    <td></td>
+    <td >Requirements video presentation †</td>
   </tr>
   <tr>
     <td >Oct 15, 2021</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week6.md"> Suggested steps</a></td>
-     <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/Group_eval_rubric.md"> Rubric for the Group Evaluations</a></td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/Group_eval_rubric.md"> Rubric for the Group Evaluations</a></td>
     <td >group evaluation(due to 11:59 pm), ⊗(due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> 7</td>
     <td >Oct 20, 2021</td>
-     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week7.md"> Suggested steps</a></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week7.md"> Suggested steps</a></td>
     <td ><a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/best_practices.md"> Coding Best practices</a>,
        <a href="https://drive.google.com/file/d/1hlTaBNjvvH14oY4eSOJkMBSWrICa70si/view"> Implementing continuous integration</a></td>
-   <td >Requirements report † (due to 11:59 pm)</td>
+    <td >Requirements report † (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td >Oct 22, 2021</td>
@@ -174,7 +174,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Nov 3, 2021</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week9.md"> Suggested steps</a></td>
     <td ></td>
-   <td ></td>
+    <td ></td>
   </tr>
   <tr>
     <td >Nov 5, 2021</td>
@@ -191,7 +191,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Nov 17, 2021</td>
     <td >Peer testing (set up)</td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerTestingSesions.md"> Criteria for Peer Testing</a></td>
-   <td ></td>
+    <td ></td>
   </tr>
   <tr>
     <td >Nov 19, 2021</td>
@@ -204,7 +204,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Nov 24, 2021</td>
     <td >Peer testing #1</td>
     <td ></td>
-   <td ></td>
+    <td ></td>
   </tr>
   <tr>
     <td >Nov 26, 2021</td>
@@ -217,7 +217,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Dec 1, 2021</td>
     <td >Client feedback</td>
     <td ></td>
-   <td >Peer testing Report</td>
+    <td >Peer testing Report</td>
   </tr>
   <tr>
     <td >Dec 3, 2021</td>
@@ -233,15 +233,15 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
 **TERM2**
 
 <table>
-<thead>
-  <tr>
-    <th>Week </th>
-    <th>Date</th>
-    <th>Topic</th>
-    <th>Resources</th>
-    <th>THINGS TO SUBMIT</th>
-  </tr>
-</thead>
+  <thead>
+    <tr>
+      <th>Week </th>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Resources</th>
+      <th>THINGS TO SUBMIT</th>
+    </tr>
+  </thead>
   <tr>
     <td rowspan="2"> 1</td>
     <td >Jan 12, 2022</td>
@@ -249,11 +249,11 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ></td>
     <td ></td>
   </tr>
-   <tr>
+  <tr>
     <td >Jan 14, 2022</td>
     <td ></td>
     <td ></td>
-     <td >⊗ (due to 11:59 pm)</td>
+    <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> 2</td>
@@ -262,7 +262,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ></td>
     <td ></td>
   </tr>
-   <tr>
+  <tr>
     <td >Jan 21, 2022</td>
     <td ></td>
     <td ></td>
@@ -275,7 +275,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ></td>
     <td ></td>
   </tr>
-   <tr>
+  <tr>
     <td >Jan 28, 2022</td>
     <td ></td>
     <td ></td>
@@ -288,11 +288,11 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ></td>
     <td ></td>
   </tr>
-   <tr>
+  <tr>
     <td >Feb 4, 2022</td>
     <td ></td>
     <td ></td>
-   <td >⊗ (due to 11:59 pm)</td>
+    <td > ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> 5</td>
@@ -301,20 +301,20 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ></td>
     <td ></td>
   </tr>
-   <tr>
+  <tr>
     <td >Feb 11, 2022</td>
     <td ></td>
     <td ></td>
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
-   <tr>
+  <tr>
     <td rowspan="2"> 6</td>
     <td >Feb 16, 2022</td>
     <td ></td>
     <td ></td>
     <td ></td>
   </tr>
-   <tr>
+  <tr>
     <td >Feb 18, 2022</td>
     <td ><Peer testing (set up)/td>
     <td ></td>
@@ -324,14 +324,14 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td>7</td>
     <td colspan="4" >MidTerm Break</td>
   </tr>
-   <tr>
+  <tr>
     <td rowspan="2"> 8</td>
     <td >Mar 2, 2022</td>
     <td >Peer testing #2</td>
     <td ></td>
     <td ></td>
   </tr>
-   <tr>
+  <tr>
     <td >Mar 4, 2022</td>
     <td >Peer testing #2</td>
     <td ></td>
@@ -344,20 +344,20 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ></td>
     <td ></td>
   </tr>
-   <tr>
+  <tr>
     <td >Mar 11, 2022</td>
     <td ></td>
     <td ></td>
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
-   <tr>
+  <tr>
     <td rowspan="2"> 10</td>
     <td >Mar 16, 2022</td>
     <td ></td>
     <td ></td>
     <td ></td>
   </tr>
-   <tr>
+  <tr>
     <td >Mar 18, 2022</td>
     <td ></td>
     <td ></td>
@@ -370,20 +370,20 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ></td>
     <td ></td>
   </tr>
-   <tr>
+  <tr>
     <td >Mar 25, 2022</td>
     <td ></td>
     <td ></td>
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
- <tr>
+  <tr>
     <td rowspan="2"> 12</td>
     <td >Mar 30, 2022</td>
     <td ></td>
     <td ></td>
     <td ></td>
   </tr>
-   <tr>
+  <tr>
     <td >Apr 1, 2022</td>
     <td ></td>
     <td ></td>
@@ -396,7 +396,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ></td>
     <td ></td>
   </tr>
-   <tr>
+  <tr>
     <td >Apr 8, 2022</td>
     <td ></td>
     <td ></td>
@@ -404,8 +404,9 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   </tr>
   <tr>
     <td rowspan="2"> Final Product</td>
-     <td >April 22, 2022</td>
+    <td >April 22, 2022</td>
     <td > Milestone #4</td>
     <td ></td>
     <td ></td>
   </tr>
+</table>
