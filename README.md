@@ -172,7 +172,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td rowspan="2">9</td>
     <td >Nov 3, 2021</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week9.md"> Suggested steps</a></td>
+    <td ></td>
     <td ></td>
     <td ></td>
   </tr>
