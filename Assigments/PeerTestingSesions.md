@@ -13,7 +13,7 @@ Each member in each team has to run **ONE user feedback session** and **ONE thin
 
 ## Participation Requirements
 
-**Each member in each team must participate in TWO user feedback sessions**. Individuals can participate in either user or thinkaloud activities, depending on what's needed.
+**Each member in each team must participate in TWO sessions**. Individuals can participate in either user or thinkaloud activities, depending on what's needed.
 The only constraint is that each team must have its members participate in sessions that covers ALL the projects in the course, (except MIM and tracing).
 
 Your grade this week will be a function of your readiness and ability to conduct the two testing sessions and your individual participation. It is important that you are prepared and have the system ready to go when your participant arrives. Be respectful of people's time. Don't waste your participants' time and make them sit there and watch you setup. Rehearse your sessions and make sure it can be done in a timely manner, because if you run overtime, your participants are NOT obligated to stay beyond the 40 minutes planned.
