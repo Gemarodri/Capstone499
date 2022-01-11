@@ -243,7 +243,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     </tr>
   </thead>
   <tr>
-    <td rowspan="2"> 1</td>
+    <td rowspan="2"> 14</td>
     <td >Jan 12, 2022</td>
     <td ></td>
     <td ></td>
@@ -256,7 +256,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 2</td>
+    <td rowspan="2"> 15</td>
     <td >Jan 19, 2022</td>
     <td ></td>
     <td ></td>
@@ -269,7 +269,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 3</td>
+    <td rowspan="2"> 16</td>
     <td >Jan 26, 2022</td>
     <td ></td>
     <td ></td>
@@ -282,7 +282,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 4</td>
+    <td rowspan="2"> 17</td>
     <td >Feb 2, 2022</td>
     <td ></td>
     <td ></td>
@@ -295,7 +295,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td > ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 5</td>
+    <td rowspan="2"> 18</td>
     <td >Feb 9, 2022</td>
     <td ></td>
     <td ></td>
@@ -308,7 +308,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 6</td>
+    <td rowspan="2"> 19</td>
     <td >Feb 16, 2022</td>
     <td ></td>
     <td ></td>
@@ -321,11 +321,11 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td>7</td>
+    <td>20</td>
     <td colspan="4" >MidTerm Break</td>
   </tr>
   <tr>
-    <td rowspan="2"> 8</td>
+    <td rowspan="2"> 21</td>
     <td >Mar 2, 2022</td>
     <td >Peer testing #2</td>
     <td ></td>
@@ -338,7 +338,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td ></td>
   </tr>
   <tr>
-    <td rowspan="2"> 9</td>
+    <td rowspan="2"> 22</td>
     <td >Mar 9, 2022</td>
     <td ></td>
     <td ></td>
@@ -351,7 +351,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 10</td>
+    <td rowspan="2"> 23</td>
     <td >Mar 16, 2022</td>
     <td ></td>
     <td ></td>
@@ -364,7 +364,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 11</td>
+    <td rowspan="2"> 24</td>
     <td >Mar 23, 2022</td>
     <td ></td>
     <td ></td>
@@ -377,7 +377,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 12</td>
+    <td rowspan="2"> 25</td>
     <td >Mar 30, 2022</td>
     <td ></td>
     <td ></td>
@@ -390,7 +390,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 13</td>
+    <td rowspan="2"> 26</td>
     <td >Apr 6, 2022</td>
     <td ></td>
     <td ></td>
