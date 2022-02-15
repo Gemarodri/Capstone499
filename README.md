@@ -305,7 +305,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Feb 11, 2022</td>
     <td ></td>
     <td ></td>
-    <td >⊗ (due to 11:59 pm)</td>
+    <td > ⊗(due to 11:59 pm) </td>
   </tr>
   <tr>
     <td rowspan="2"> 19</td>
@@ -316,13 +316,13 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   </tr>
   <tr>
     <td >Feb 18, 2022</td>
-    <td ><Peer testing (set up)/td>
-    <td ></td>
-    <td >⊗ (due to 11:59 pm)</td>
+    <td > Peer testing (set up) </td>
+    <td > <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerTestingSesions2.md"> Peer Testing Sessions </a> </td>
+    <td > ⊗ (due to 11:59 pm) </td>
   </tr>
   <tr>
     <td>20</td>
-    <td colspan="4" >MidTerm Break</td>
+    <td colspan="4" > MidTerm Break </td>
   </tr>
   <tr>
     <td rowspan="2"> 21</td>
@@ -334,8 +334,8 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td >Mar 4, 2022</td>
     <td >Peer testing #2</td>
-    <td ></td>
-    <td >Video demo † (due to 11:59 pm)</td>
+    <td > <a href="https://github.com/Gemarodri/Capstone499/edit/main/Assigments/PeerTestingSesions.md#prototype-video-demo-25"> Video demo Criteria </a> </td>
+    <td > Video demo † (due to 11:59 pm), ⊗ (due to 11:59 pm) </td>
   </tr>
   <tr>
     <td rowspan="2"> 22</td>
@@ -347,12 +347,12 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td >Mar 11, 2022</td>
     <td ></td>
-    <td ></td>
+    <td > <a href="https://github.com/Gemarodri/Capstone499/edit/main/Assigments/PeerTestingSesions.md#peer-testing-report-expectations-75"> Peer Testing report Criteria </a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerEvaluationCriteria.md"> Peer Evaluations Criteria</a>, </td>
     <td > Peer testing Report, peer evaluations, ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> 23</td>
-    <td >Mar 16, 2022</td>
+    <td > Mar 16, 2022</td>
     <td ></td>
     <td ></td>
     <td ></td>
@@ -361,7 +361,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >Mar 18, 2022</td>
     <td ></td>
     <td ></td>
-    <td >⊗ (due to 11:59 pm)</td>
+    <td > ⊗ (due to 11:59 pm) </td>
   </tr>
   <tr>
     <td rowspan="2"> 24</td>
@@ -390,23 +390,23 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 26</td>
+    <td rowspan="2"> 26 </td>
     <td >Apr 6, 2022</td>
     <td ></td>
     <td ></td>
-    <td >⊗ (due to 11:59 pm)</td>
+    <td ></td>
   </tr>
   <tr>
     <td >Apr 8, 2022</td>
+    <td >Wrap up </td>
     <td ></td>
-    <td ></td>
-    <td >Wrap up, ⊗ (due to 11:59 pm)</td>
+    <td > Final report, peer evaluation, ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> Final Product</td>
-    <td >April 22, 2022</td>
+    <td >April 29, 2022</td>
     <td > Milestone #4</td>
     <td ></td>
-    <td >Final report, code repo, Video demo †, group evaluation, peer evaluation</td>
+    <td > Final presentation, code repo, Video demo †, group evaluation</td>
   </tr>
 </table>
