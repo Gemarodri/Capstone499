@@ -334,7 +334,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td >Mar 4, 2022</td>
     <td >Peer testing #2</td>
-    <td > <a href="https://github.com/Gemarodri/Capstone499/edit/main/Assigments/PeerTestingSesions.md#prototype-video-demo-25"> Video demo Criteria </a> </td>
+    <td > <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerTestingSesions.md#prototype-video-demo-25"> Video demo Criteria </a> </td>
     <td > Video demo † (due to 11:59 pm), ⊗ (due to 11:59 pm) </td>
   </tr>
   <tr>
@@ -347,7 +347,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td >Mar 11, 2022</td>
     <td ></td>
-    <td > <a href="https://github.com/Gemarodri/Capstone499/edit/main/Assigments/PeerTestingSesions.md#peer-testing-report-expectations-75"> Peer Testing report Criteria </a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerEvaluationCriteria.md"> Peer Evaluations Criteria</a>, </td>
+    <td > <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerTestingSesions.md#peer-testing-report-expectations-75"> Peer Testing report Criteria </a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerEvaluationCriteria.md"> Peer Evaluations Criteria</a>, </td>
     <td > Peer testing Report, peer evaluations, ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
@@ -399,14 +399,15 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td >Apr 8, 2022</td>
     <td >Wrap up </td>
-    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalReport.md"> Final Report Criteria </a> </td>
     <td > Final report, peer evaluation, ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> Final Product</td>
     <td >April 29, 2022</td>
     <td > Milestone #4</td>
-    <td ></td>
-    <td > Final presentation, code repo, Video demo †, group evaluation</td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalPresentation.md"> Final Presentation Criteria </a>, 
+    <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalVideo.md"> Final Video Criteria </a></td>
+    <td > Final presentation, code repo, Final Video †, group evaluation</td>
   </tr>
 </table>
