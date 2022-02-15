@@ -406,8 +406,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td rowspan="2"> Final Product</td>
     <td >April 29, 2022</td>
     <td > Milestone #4</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalPresentation.md"> Final Presentation Criteria </a>, 
-    <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalVideo.md"> Final Video Criteria </a></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalReport.md#presentation-expectations-50"> Final Presentation expectations </a></td>
     <td > Final presentation, code repo, Final Video †, group evaluation</td>
   </tr>
 </table>
