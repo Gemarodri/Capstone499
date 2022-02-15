@@ -4,7 +4,7 @@ The purpose of these second peer testing sessions is to get user feedback on you
 
 ## Schedule
 
-Each peer testing activity will be held in the classroom and will take up to 40 minutes. The schedule for each session is availabe here (). On this document, you will find the time of the sessions, the day of the sessions, your name as administrator in two of the activities, and your name as an participan in other two activities. In each session, there will be two different peer testing activities (User feedback and thinkaloud feedback), in each session there will be a administrator and a participant.
+Each peer testing activity will be held in the classroom and will take up to 40 minutes. The schedule for each session is availabe here (https://docs.google.com/spreadsheets/d/1jOD-FS-CZXmYrhu2pVnt639Eda8HOW_Vf_OUELs8T-U/edit#gid=0). On this document, you will find the time of the sessions, the day of the sessions, your name as administrator in two of the activities, and your name as an participan in other two activities. In each session, there will be two different peer testing activities (User feedback and thinkaloud feedback), in each session there will be a administrator and a participant.
 Those students that cannot be in person for the peer testing activities will not apear in the schedule. Instead, I will email them with the names of their participants for each peer testing activity.
 
 ## Number of Sessions
