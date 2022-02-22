@@ -56,6 +56,3 @@ A **thinkaloud session** is run where P talks as much as possible, including tho
 EVERYTHING ELSE in the test session is done exactly the same. It is only the navigation protocol that are different.
 
 
-## Other possible settup for running heuristic evaluations
-[TO BE DONE]
-
