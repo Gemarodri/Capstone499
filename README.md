@@ -326,9 +326,9 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   </tr>
   <tr>
     <td rowspan="2"> 21</td>
-    <td >Mar 2, 2022</td>
+    <td >Mar 2, 2022</td> 
     <td >Peer testing #2</td>
-    <td ></td>
+    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/PeerTestingSessions.pdf"> Peer Testing Session (Tips)</a></td>
     <td ></td>
   </tr>
   <tr>
