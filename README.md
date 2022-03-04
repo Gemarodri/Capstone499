@@ -44,7 +44,7 @@ attained
 **Evaluation Criteria:** The evaluation criteria is detailed in this [document](EvaluationCriteria.md).
 
 **Expectations:**
-- Attend all classes and prepare before attending class.
+- Attend all classes in person and all meetings with the instructor.
 - Be professional in interacting with your instructor, teammates, and client(s).
 - Be prepared before attending meetings with your team and with your clients.
 - Commit to the team’s goals and do your fair share of the work
