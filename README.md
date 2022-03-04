@@ -61,7 +61,6 @@ attained
 Note: All items under THINGS TO SUBMIT are due at the beginning of class on the date it is listed. The sign ⊗ denotes the weekly git stat report in PDF for each team. The sign † denotes deliverables that your client will rank.
 
 **TERM 1**
-
 <table>
   <thead>
     <tr>
@@ -357,55 +356,55 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td></td>
   </tr>
   <tr>
-    <td >Mar 18, 2022</td>
+    <td>Mar 18, 2022</td>
     <td>Project Updates (meeting)</td>
     <td></td>
     <td> ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 24</td>
-    <td >Mar 23, 2022</td>
+    <td rowspan="2">24</td>
+    <td>Mar 23, 2022</td>
     <td>Project Updates (meeting)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td >Mar 25, 2022</td>
+    <td>Mar 25, 2022</td>
     <td>Project Updates (meeting)</td>
     <td></td>
     <td>⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 25</td>
+    <td rowspan="2">25</td>
     <td>Mar 30, 2022</td>
     <td>Project Updates (meeting)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td >Apr 1, 2022</td>
+    <td>Apr 1, 2022</td>
     <td>Project Updates (meeting)</td>
     <td></td>
     <td>⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 26 </td>
+    <td rowspan="2">26</td>
     <td>Apr 6, 2022</td>
     <td>Project Updates (meeting)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td >Apr 8, 2022</td>
-    <td> Wrap up</td>
-    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalReport.md"> Final Report Criteria </a></td>
+    <td>Apr 8, 2022</td>
+    <td>Wrap up</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalReport.md">Final Report Criteria</a></td>
     <td>Final report, peer evaluation, ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> Final Product</td>
-    <td>April 29, 2022 </td>
-    <td> Milestone #4 </td>
-    <td> <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalReport.md#presentation-expectations-50"> Final Presentation expectations</a></td>
-    <td> Final presentation, code repo, Final Video †, group evaluation</td>
+    <td rowspan="2">Final Product</td>
+    <td>April 29, 2022</td>
+    <td>Milestone #4</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalReport.md#presentation-expectations-50">Final Presentation expectations</a></td>
+    <td>Final presentation, code repo, Final Video †, group evaluation</td>
   </tr>
 </table>
