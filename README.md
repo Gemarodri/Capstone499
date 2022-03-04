@@ -65,7 +65,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
 <table>
   <thead>
     <tr>
-      <th>Week </th>
+      <th>Week</th>
       <th>Date</th>
       <th>Topic</th>
       <th>Resources</th>
@@ -73,157 +73,156 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     </tr>
   </thead>
   <tr>
-    <td rowspan="2"> 1</td>
-    <td >Sep 8, 2021</td>
-    <td >Intro to the course</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/INTRO.pdf">Slides</a>,<a href="https://canvas.ubc.ca/courses/88687/external_tools/187"> Introduction to Intellectual Property</a></td>
-    <td > Introductions (Canvas)</td>
+    <td rowspan="2">1</td>
+    <td>Sep 8, 2021</td>
+    <td>Intro to the course</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/INTRO.pdf">Slides</a>,<a href="https://canvas.ubc.ca/courses/88687/external_tools/187"> Introduction to Intellectual Property</a></td>
+    <td> Introductions (Canvas)</td>
   </tr>
   <tr>
-    <td >Sep 10, 2021</td>
-    <td >Project Overview</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/TEAMS.pdf">Slides</a>,<a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/agile.md">Agile Software development</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/ScrumTemplate.pdf">Template</a>,<a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/planning.md">Sprint Planning</a>,<a href="https://thedigitalprojectmanager.com/how-run-sprint-retrospective">Sprint retrospective</a>
-    </td>
-    <td >Complete survey (Canvas)</td>
+    <td>Sep 10, 2021</td>
+    <td>Project Overview</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/TEAMS.pdf">Slides</a>,<a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/agile.md">Agile Software development</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/ScrumTemplate.pdf">Template</a>,<a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/planning.md">Sprint Planning</a>,<a href="https://thedigitalprojectmanager.com/how-run-sprint-retrospective">Sprint retrospective</a></td>
+    <td>Complete survey (Canvas)</td>
   </tr>
   <tr>
     <td rowspan="2">2</td>
-    <td >Sep 15, 2021</td>
-    <td >GitHub for Software development</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/GITHUB.pdf"> Slides </a>,<a href="https://github.com/brandongk-ubco/gitstats"> GitStats </a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/RunGitStast.md"> Run GitStats </a>, <a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/issues.md"> Features</a>, <a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/estimation.md"> Task estimation</a>, <a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/dashboard.md"> Project Dashboard</a> </td>
-    <td ></td>
+    <td>Sep 15, 2021</td>
+    <td>GitHub for Software development</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/GITHUB.pdf"> Slides </a>,<a href="https://github.com/brandongk-ubco/gitstats"> GitStats </a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/RunGitStast.md"> Run GitStats </a>, <a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/issues.md"> Features</a>, <a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/estimation.md"> Task estimation</a>, <a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/dashboard.md">Project Dashboard</a></td>
+    <td></td>
   </tr>
   <tr>
     <td >Sep 17, 2021</td>
-    <td> Time for work with your team </td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/IPagreement.pdf"> IP agreement Template</a>,</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/IndividualGitHub.md">Individual GitHub Exercise</a>,</td>
+    <td>Time for work with your team </td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Resources/IPagreement.pdf"> IP agreement Template</a>,</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/IndividualGitHub.md">Individual GitHub Exercise</a>,</td>
   </tr>
   <tr>
     <td rowspan="2">3</td>
-    <td >Sep 22, 2021</td>
-    <td ></td>
-    <td >
-    <td  ></td>
+    <td>Sep 22, 2021</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td >Sep 24, 2021</td>
-    <td > </td>
-    <td ></td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/TeamGitHubExercise.md">Team GitHub Exercise</a>, Client Meeting info in the teams Spreadsheet, ⊗</td>
+    <td>Sep 24, 2021</td>
+    <td></td>
+    <td></td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/TeamGitHubExercise.md">Team GitHub Exercise</a>, Client Meeting info in the teams Spreadsheet, ⊗</td>
   </tr>
   <tr>
-    <td rowspan="2"> 4</td>
-    <td >Sep 29, 2021</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week4.md"> Suggested steps</a></td>
-    <td ><a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/testing.md"> Testing strategies </a>  </td>
-    <td >Create the GitHub repo for yor project</td>
+    <td rowspan="2">4</td>
+    <td>Sep 29, 2021</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week4.md">Suggested steps</a></td>
+    <td><a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/testing.md">Testing strategies</a></td>
+    <td>Create the GitHub repo for yor project</td>
   </tr>
   <tr>
-    <td >Oct 1, 2021</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week4.md"> Suggested steps</a></td>
-    <td ></td>
-    <td >⊗</td>
+    <td>Oct 1, 2021</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week4.md">Suggested steps</a></td>
+    <td></td>
+    <td>⊗</td>
   </tr>
   <tr>
     <td rowspan="2">5</td>
-    <td >Oct 6, 2021</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week5.md"> Suggested steps</a></td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/RequirementsMilestone.md"> Criteria for Requirements Milestone</a></td>
-   <td ></td>
+    <td>Oct 6, 2021</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week5.md">Suggested steps</a></td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/RequirementsMilestone.md"> Criteria for Requirements Milestone</a></td>
+   <td></td>
   </tr>
   <tr>
-    <td >Oct 8, 2021</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week5.md"> Suggested steps</a></td>
-    <td ></td>
-    <td >⊗ (due to 11:59 pm)</td>
+    <td>Oct 8, 2021</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week5.md">Suggested steps</a></td>
+    <td></td>
+    <td>⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2">6</td>
-    <td >Oct 13, 2021</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week6.md"> Suggested steps</a></td>
+    <td>Oct 13, 2021</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week6.md">Suggested steps</a></td>
     <td></td>
-    <td >Requirements video presentation †</td>
+    <td>Requirements video presentation †</td>
   </tr>
   <tr>
-    <td >Oct 15, 2021</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week6.md"> Suggested steps</a></td>
-    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/Group_eval_rubric.md"> Rubric for the Group Evaluations</a></td>
-    <td >group evaluation(due to 11:59 pm), ⊗(due to 11:59 pm)</td>
+    <td>Oct 15, 2021</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week6.md">Suggested steps</a></td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/Group_eval_rubric.md">Rubric for the Group Evaluations</a></td>
+    <td>group evaluation(due to 11:59 pm), ⊗(due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 7</td>
-    <td >Oct 20, 2021</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week7.md"> Suggested steps</a></td>
-    <td ><a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/best_practices.md"> Coding Best practices</a>,
-       <a href="https://drive.google.com/file/d/1hlTaBNjvvH14oY4eSOJkMBSWrICa70si/view"> Implementing continuous integration</a></td>
-    <td >Requirements report † (due to 11:59 pm)</td>
+    <td rowspan="2">7</td>
+    <td>Oct 20, 2021</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Suggestions/Week7.md">Suggested steps</a></td>
+    <td><a href="https://github.com/brandongk-ubco/gitstats/blob/develop/docs/technical/best_practices.md">Coding Best practices</a>,
+       <a href="https://drive.google.com/file/d/1hlTaBNjvvH14oY4eSOJkMBSWrICa70si/view">Implementing continuous integration</a></td>
+    <td>Requirements report † (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td >Oct 22, 2021</td>
+    <td>Oct 22, 2021</td>
     <td></td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerEvaluationCriteria.md"> Peer Evaluation Criteria</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/Peer_eval_rubric.md"> Rubric for the Peer Evaluations</a></td>
-    <td > peer evals(due to 11:59 pm), ⊗ (due to 11:59 pm)</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerEvaluationCriteria.md">Peer Evaluation Criteria</a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/Peer_eval_rubric.md">Rubric for the Peer Evaluations</a></td>
+    <td >peer evals(due to 11:59 pm), ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td>8</td>
-    <td colspan="4" >No class (I'm Away)</td>
+    <td colspan="4">No class</td>
   </tr>
   <tr>
     <td rowspan="2">9</td>
-    <td >Nov 3, 2021</td>
-    <td ></td>
-    <td ></td>
-    <td ></td>
+    <td>Nov 3, 2021</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td >Nov 5, 2021</td>
-    <td ></td>
-    <td ></td>
-    <td >⊗ (due to 11:59 pm)</td>
+    <td>Nov 5, 2021</td>
+    <td></td>
+    <td></td>
+    <td>⊗(due to 11:59 pm)</td>
   </tr>
   <tr>
     <td>10</td>
-    <td colspan="4" >MidTerm Break</td>
+    <td colspan="4">MidTerm Break</td>
   </tr>
   <tr>
-    <td rowspan="2"> 11</td>
-    <td >Nov 17, 2021</td>
-    <td >Peer testing (set up)</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerTestingSesions.md"> Criteria for Peer Testing</a></td>
-    <td ></td>
+    <td rowspan="2">11</td>
+    <td>Nov 17, 2021</td>
+    <td>Peer testing (set up)</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerTestingSesions.md">Criteria for Peer Testing</a></td>
+    <td></td>
   </tr>
   <tr>
-    <td >Nov 19, 2021</td>
-    <td >Peer testing (set up)</td>
-    <td ></td>
-    <td >Sign up for peer testing, ⊗(due to 11:59 pm)</td>
+    <td>Nov 19, 2021</td>
+    <td>Peer testing (set up)</td>
+    <td></td>
+    <td>Sign up for peer testing, ⊗(due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2">12</td>
-    <td >Nov 24, 2021</td>
-    <td >Peer testing #1</td>
-    <td ></td>
-    <td ></td>
+    <td>Nov 24, 2021</td>
+    <td>Peer testing #1</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td >Nov 26, 2021</td>
-    <td >Peer testing #1</td>
-    <td ></td>
-    <td >Video demo † (due to 11:59 pm),⊗ (due to 11:59 pm)</td>
+    <td>Nov 26, 2021</td>
+    <td>Peer testing #1</td>
+    <td></td>
+    <td>Video demo † (due to 11:59 pm),⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2">13</td>
-    <td >Dec 1, 2021</td>
-    <td ></td>
-    <td ></td>
-    <td ></td>
+    <td>Dec 1, 2021</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td >Dec 3, 2021</td>
-    <td ></td>
-    <td ></td>
-    <td >Peer testing Report, peer evaluations, ⊗ (due to 11:59 pm) </td>
+    <td>Dec 3, 2021</td>
+    <td></td>
+    <td></td>
+    <td>Peer testing Report, peer evaluations, ⊗ (due to 11:59 pm)</td>
   </tr>
  </table>   
   
@@ -235,7 +234,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
 <table>
   <thead>
     <tr>
-      <th>Week </th>
+      <th>Week</th>
       <th>Date</th>
       <th>Topic</th>
       <th>Resources</th>
@@ -243,170 +242,170 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     </tr>
   </thead>
   <tr>
-    <td rowspan="2"> 14</td>
-    <td >Jan 12, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td ></td>
+    <td rowspan="2">14</td>
+    <td>Jan 12, 2022</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td >Jan 14, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td ></td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td rowspan="2"> 15</td>
-    <td >Jan 19, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td ></td>
+    <td>Jan 19, 2022</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td >Jan 21, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td >⊗ (due to 11:59 pm)</td>
+    <td>Jan 21, 2022</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td>⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 16</td>
-    <td >Jan 26, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td ></td>
+    <td rowspan="2">16</td>
+    <td>Jan 26, 2022</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td >Jan 28, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td >⊗ (due to 11:59 pm)</td>
+    <td>Jan 28, 2022</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td>⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 17</td>
-    <td >Feb 2, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td ></td>
+    <td rowspan="2">17</td>
+    <td>Feb 2, 2022</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td >Feb 4, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td > ⊗ (due to 11:59 pm)</td>
+    <td>Feb 4, 2022</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td>⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 18</td>
-    <td >Feb 9, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td ></td>
+    <td rowspan="2">18</td>
+    <td>Feb 9, 2022</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td >Feb 11, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td > ⊗(due to 11:59 pm) </td>
+    <td>Feb 11, 2022</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td>⊗(due to 11:59 pm) </td>
   </tr>
   <tr>
-    <td rowspan="2"> 19</td>
-    <td >Feb 16, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td ></td>
+    <td rowspan="2">19</td>
+    <td>Feb 16, 2022</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td >Feb 18, 2022</td>
-    <td > Peer testing (set up) </td>
-    <td > <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerTestingSesions2.md"> Peer Testing Sessions </a> </td>
-    <td > ⊗ (due to 11:59 pm) </td>
+    <td>Feb 18, 2022</td>
+    <td>Peer testing (set up)</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerTestingSesions2.md">Peer Testing Sessions</a></td>
+    <td>⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td>20</td>
-    <td colspan="4" > MidTerm Break </td>
+    <td colspan="4">MidTerm Break</td>
   </tr>
   <tr>
-    <td rowspan="2"> 21</td>
-    <td >Mar 2, 2022</td> 
-    <td >Peer testing #2</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/PeerTestingSessions.pdf"> Peer Testing Session (Tips)</a></td>
-    <td ></td>
+    <td rowspan="2">21</td>
+    <td>Mar 2, 2022</td> 
+    <td>Peer testing #2</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Slides/PeerTestingSessions.pdf">Peer Testing Session (Tips)</a></td>
+    <td></td>
   </tr>
   <tr>
-    <td >Mar 4, 2022</td>
-    <td >Peer testing #2</td>
-    <td > <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerTestingSesions.md#prototype-video-demo-25"> Video demo Criteria </a> </td>
-    <td > Video demo † (due to 11:59 pm), ⊗ (due to 11:59 pm) </td>
+    <td>Mar 4, 2022</td>
+    <td>Peer testing #2</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerTestingSesions.md#prototype-video-demo-25">Video demo Criteria</a></td>
+    <td>Video demo † (due to 11:59 pm), ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 22</td>
-    <td >Mar 9, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td ></td>
+    <td rowspan="2">22</td>
+    <td>Mar 9, 2022</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td >Mar 11, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td > <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerTestingSesions.md#peer-testing-report-expectations-75"> Peer Testing report Criteria </a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerEvaluationCriteria.md"> Peer Evaluations Criteria</a>, </td>
-    <td > Peer testing Report, peer evaluations, ⊗ (due to 11:59 pm)</td>
+    <td>Project Updates (meeting)</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerTestingSesions.md#peer-testing-report-expectations-75">Peer Testing report Criteria </a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerEvaluationCriteria.md"> Peer Evaluations Criteria</a></td>
+    <td>Peer testing Report, peer evaluations, ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
-    <td rowspan="2"> 23</td>
-    <td > Mar 16, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td ></td>
+    <td rowspan="2">23</td>
+    <td>Mar 16, 2022</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td >Mar 18, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td > ⊗ (due to 11:59 pm) </td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td> ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> 24</td>
     <td >Mar 23, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td ></td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td >Mar 25, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td >⊗ (due to 11:59 pm)</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td>⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> 25</td>
-    <td >Mar 30, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td ></td>
+    <td>Mar 30, 2022</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td >Apr 1, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td >⊗ (due to 11:59 pm)</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td>⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> 26 </td>
-    <td >Apr 6, 2022</td>
-    <td >Project Updates (meeting)</td>
-    <td ></td>
-    <td ></td>
+    <td>Apr 6, 2022</td>
+    <td>Project Updates (meeting)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td >Apr 8, 2022</td>
-    <td > Wrap up </td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalReport.md"> Final Report Criteria </a> </td>
-    <td > Final report, peer evaluation, ⊗ (due to 11:59 pm)</td>
+    <td> Wrap up</td>
+    <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalReport.md"> Final Report Criteria </a></td>
+    <td>Final report, peer evaluation, ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> Final Product</td>
-    <td >April 29, 2022</td>
-    <td > Milestone #4</td>
-    <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalReport.md#presentation-expectations-50"> Final Presentation expectations </a></td>
-    <td > Final presentation, code repo, Final Video †, group evaluation</td>
+    <td>April 29, 2022 </td>
+    <td> Milestone #4 </td>
+    <td> <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalReport.md#presentation-expectations-50"> Final Presentation expectations</a></td>
+    <td> Final presentation, code repo, Final Video †, group evaluation</td>
   </tr>
 </table>
