@@ -245,72 +245,72 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td rowspan="2"> 14</td>
     <td >Jan 12, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td ></td>
   </tr>
   <tr>
     <td >Jan 14, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td ></td>
   </tr>
   <tr>
     <td rowspan="2"> 15</td>
     <td >Jan 19, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td ></td>
   </tr>
   <tr>
     <td >Jan 21, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> 16</td>
     <td >Jan 26, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td ></td>
   </tr>
   <tr>
     <td >Jan 28, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> 17</td>
     <td >Feb 2, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td ></td>
   </tr>
   <tr>
     <td >Feb 4, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td > ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> 18</td>
     <td >Feb 9, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td ></td>
   </tr>
   <tr>
     <td >Feb 11, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td > ⊗(due to 11:59 pm) </td>
   </tr>
   <tr>
     <td rowspan="2"> 19</td>
     <td >Feb 16, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td ></td>
   </tr>
@@ -340,65 +340,65 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
   <tr>
     <td rowspan="2"> 22</td>
     <td >Mar 9, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td ></td>
   </tr>
   <tr>
     <td >Mar 11, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td > <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerTestingSesions.md#peer-testing-report-expectations-75"> Peer Testing report Criteria </a>, <a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/PeerEvaluationCriteria.md"> Peer Evaluations Criteria</a>, </td>
     <td > Peer testing Report, peer evaluations, ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> 23</td>
     <td > Mar 16, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td ></td>
   </tr>
   <tr>
     <td >Mar 18, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td > ⊗ (due to 11:59 pm) </td>
   </tr>
   <tr>
     <td rowspan="2"> 24</td>
     <td >Mar 23, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td ></td>
   </tr>
   <tr>
     <td >Mar 25, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> 25</td>
     <td >Mar 30, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td ></td>
   </tr>
   <tr>
     <td >Apr 1, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td >⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2"> 26 </td>
     <td >Apr 6, 2022</td>
-    <td ></td>
+    <td >Project Updates (meeting)</td>
     <td ></td>
     <td ></td>
   </tr>
   <tr>
     <td >Apr 8, 2022</td>
-    <td >Wrap up </td>
+    <td > Wrap up </td>
     <td ><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalReport.md"> Final Report Criteria </a> </td>
     <td > Final report, peer evaluation, ⊗ (due to 11:59 pm)</td>
   </tr>
