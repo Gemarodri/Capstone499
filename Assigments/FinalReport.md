@@ -24,8 +24,10 @@
 
 * (5%) Links for the following:
     * A link to your github repo you used to build the project
-    * A link to your promo video (see below)
-    * A link to your presentation video (see below)
+    * A link to your promo video (see below)* 
+    * A link to your presentation video (see below)* 
+
+*since you are submitting the report before the promo video and the presentation video, you do not need to include the links in the final report. However, you should upload these links on Canvas before the final presentation (April 29th). The submission will be open on April 8th.
 
 Note that each diagram must be explained clearly. Do not assume that the reader understands the intentions of your designs.
 
