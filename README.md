@@ -398,7 +398,7 @@ Note: All items under THINGS TO SUBMIT are due at the beginning of class on the 
     <td>Apr 8, 2022</td>
     <td>Wrap up</td>
     <td><a href="https://github.com/Gemarodri/Capstone499/blob/main/Assigments/FinalReport.md">Final Report Criteria</a></td>
-    <td>Final report, peer evaluation, ⊗ (due to 11:59 pm)</td>
+    <td>Final report, ⊗ (due to 11:59 pm)</td>
   </tr>
   <tr>
     <td rowspan="2">Final Product</td>
