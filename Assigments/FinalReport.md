@@ -40,12 +40,12 @@ Note: Present your project to an audience who have never heard of it before. You
 
 Each group is expected to create a 10-12 minute presentation that includes a promo video and the following content:
 
-* **A 2-minute promo video**: A clearly narrated and subtitled video showcasing specific features of your software - edit it properly and make it look professional. You can play this video at the beginning, middle, or end of your presentation. The time taken to play this video will be included as part of the 10 minutes
+* **A 2-minute promo video**: A clearly narrated and subtitled video showcasing specific features of your software - edit it properly and make it look professional. You can play this video at the beginning, middle, or end of your presentation. The time taken to play this video will be included as part of the 10-12 minutes
 * A brief description of the software you are building: Don't repeat what you say in the video; if you feel like you've said it all in the video then just move onto the next point
-* The target audience for your software and potential usage scenario: Elaborate on this if you haven't fully described it in the video
-* The requirements, design, and test results of your software: Be selective in what you include here due to time limitations. Ensure what you say makes sense without additional context (your audience is new to your project)
-* Identify at least one key distinguishing feature of your software so your client appreciates all the effort you've put into polishing it up
-* Identify at least one technical challenge in your development process so your client understands the difficulty of the scope of the project
+* The target audience for your software and potential usage scenario: Elaborate on this if you haven't fully described it in the video.
+* The requirements, design, and test results of your software: Be selective in what you include here due to time limitations. Ensure what you say makes sense without additional context (your audience is new to your project).
+* Identify at least one key distinguishing feature of your software so your client appreciates all the effort you've put into polishing it up.
+* Identify at least one technical challenge in your development process so your client understands the difficulty of the scope of the project.
 * Summary and future work:
     * Describe what needs to be done by the client once you pass the project onto them. 
     * If any work is left to be done, list those features. 
@@ -53,7 +53,7 @@ Each group is expected to create a 10-12 minute presentation that includes a pro
 
 ### Requirements for the presentation:
 * Rehearse your talk so it's smooth
-* Everyone in the team needs to present (quantity can vary though)
+* Everyone in the team needs to present
 * Eliminate typos and inconsitencies from slides
 * Keep slides simple (not crowded with text)
 * Use good visuals in the slides to help get your points across
