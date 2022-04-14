@@ -33,7 +33,7 @@ Note that each diagram must be explained clearly. Do not assume that the reader 
 
 ## Presentation expectations (50%)
 
-The final exam has been scheduled on April 29th. Due to the size of our class, we will need to do the presentations in two paralell sessions. The slots for the presentations can be found here (). These slots have been randomly assigned.
+The final exam has been scheduled on April 29th. Due to the size of our class, we will need to do the presentations in two paralell sessions. The slots for the presentations can be found here (https://docs.google.com/spreadsheets/d/1uOija-4qSG8NWkuNkHyzyb5PENxdJVvLodO70Tco9Wk/edit#gid=0). These slots (for each project) have been randomly assigned.
 
 Although there will be live presentations, you will need to record your presentation and submit it as a video. That way, I can watch **ALL** the presentations and we can avoid technical problems. These video recordings will be submitted one day after the exam (by April 28th, 7:00 pm). The guidelines for the presentation is as follows.
 Note: Present your project to an audience who have never heard of it before. You can expect your audience to have some technical background (approximately second year undergraduate level) but not a lot. Introduce yourselves in the presentation. If we cannot see your face, at least include a picture. Dress appropriately if you are appearing on camera, and always speak in a professional manner.
